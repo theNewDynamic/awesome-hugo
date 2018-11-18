@@ -8,20 +8,15 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 >
 > We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
 
-— From ["What is Hugo"](https://gohugo.io/about/what-is-hugo/)
-
-
-
-
+— Paraphrased from ["What is Hugo"](https://gohugo.io/about/what-is-hugo/).
 
 ## Contents
 
 - [Resources](#resources)
   - [Official](#official)
 - [Tools](#tools)
-- [Projects Using Hugo](#projects-using-hugo)  
+- [Projects using Hugo](#projects-using-hugo)  
 - [Articles](#articles)  
-
 
 
 ## Resources
@@ -194,4 +189,14 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How I migrated this website articles from Jekyll to Hugo](https://simpleit.rocks/golang/hugo/migrating-a-jekyll-blog-to-hugo/) - By Marcelo Canina.
 - [Hugo Multilingual Part 2: Strings localization](https://regisphilibert.com/blog/2018/08/hugo-multilingual-part-2-i18n-string-localization/) - By Régis Philibert.
 - [WordPress to Static Site Generator (Hugo) Migration and Deployment](https://hackernoon.com/wordpress-to-static-site-generator-hugo-migration-and-deployment-788a69b93e66) - By Phong Huynh.
+
+
+## Contributing
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+
+---
+**Check out my website [The New Dynamic](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/budparr).**
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
