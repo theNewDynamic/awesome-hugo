@@ -195,7 +195,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
-**Check out my website [The New Dynamic](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/budparr).**
+**Check out my website [The New Dynamic](https://goodheads.io) or say hello on [Twitter](https://twitter.com/budparr).**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
