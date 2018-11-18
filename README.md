@@ -1,8 +1,6 @@
 # Awesome Hugo
 
-A curated list of awesome things related to Hugo. The world's fastest framework for building websites.
-
-![Hugo Logo](https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg)
+A curated list of awesome things related to Hugo. The world's fastest framework for building websites. [<img src="hugo-logo-wide.svg" align="right" width="250">](https://github.com/zeit/next.js)
 
 
 
