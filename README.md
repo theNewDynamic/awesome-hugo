@@ -44,7 +44,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Victor Hugo (starter repo for using Webpack)](https://github.com/netlify/victor-hugo)
 - [Hugo Webpack Boilerplate](https://github.com/vseventer/hugo-webpack-boilerplate)
 - [Hugo + Gulp starter project](https://github.com/jbrodriguez/hugulp)
-- [Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.](ttps://github.com/rdwatters/hugo-starter)
+- [Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.](https://github.com/rdwatters/hugo-starter)
 - [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas) 
 
 
