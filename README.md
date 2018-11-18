@@ -47,6 +47,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo + Gulp starter project](https://github.com/jbrodriguez/hugulp)
 - [Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.](https://github.com/rdwatters/hugo-starter)
 - [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas) 
+- [Hugo's Pipes functionality using TailwindCSS and PurgeCSS](https://github.com/budparr/hugopipes-tailwindcss)
 
 
 ## Projects using Hugo
