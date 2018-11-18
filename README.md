@@ -4,9 +4,7 @@ A curated list of awesome things related to Hugo, The world's fastest framework 
 
 Hugo is a general-purpose website framework—written in Go—that generates static webpages.
 
-> Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere…and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
->
-> We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+> Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere…and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP. We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
 
 — Paraphrased from ["What is Hugo"](https://gohugo.io/about/what-is-hugo/).
 
@@ -15,6 +13,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Resources](#resources)
   - [Official](#official)
 - [Tools](#tools)
+- [Starters](#starters)
 - [Projects using Hugo](#projects-using-hugo)  
 - [Articles](#articles)  
 
@@ -36,14 +35,16 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
     
 ## Tools
 
+- [Hugo CLI](https://www.npmjs.com/package/hugo-cli)
+
+
+## Starters
+
 - [Docker Image for Hugo](https://github.com/cibuilds/hugo)
-- [Discussion Forums](https://discuss.gohugo.io/)
 - [Victor Hugo (starter repo for using Webpack)](https://github.com/netlify/victor-hugo)
 - [Hugo Webpack Boilerplate](https://github.com/vseventer/hugo-webpack-boilerplate)
 - [Hugo + Gulp starter project](https://github.com/jbrodriguez/hugulp)
 - [Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.](ttps://github.com/rdwatters/hugo-starter)
-- [Hugo CLI](https://www.npmjs.com/package/hugo-cli)
-- [Configure Hugo to Ingest into Elasticsearch](https://docs.bonsai.io/docs/hugo)
 - [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas) 
 
 
@@ -189,7 +190,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How I migrated this website articles from Jekyll to Hugo](https://simpleit.rocks/golang/hugo/migrating-a-jekyll-blog-to-hugo/) - By Marcelo Canina.
 - [Hugo Multilingual Part 2: Strings localization](https://regisphilibert.com/blog/2018/08/hugo-multilingual-part-2-i18n-string-localization/) - By Régis Philibert.
 - [WordPress to Static Site Generator (Hugo) Migration and Deployment](https://hackernoon.com/wordpress-to-static-site-generator-hugo-migration-and-deployment-788a69b93e66) - By Phong Huynh.
-
+- [Configure Hugo to Ingest into Elasticsearch](https://docs.bonsai.io/docs/hugo)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
