@@ -1,6 +1,14 @@
 # Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://github.com/zeit/next.js)
 
-A curated list of awesome things related to Hugo. The world's fastest framework for building websites. 
+A curated list of awesome things related to Hugo, The world's fastest framework for building websites. 
+
+Hugo is a general-purpose website framework—written in Go—that generates static webpages.
+
+> Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere…and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
+
+> We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+
+— From ["What is Hugo"](https://gohugo.io/about/what-is-hugo/)
 
 
 
