@@ -210,7 +210,7 @@ Gists are succinct code snippets. Please only include things that are useful to 
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
-**Check out my website [The New Dynamic](https://goodheads.io) or say hello on [Twitter](https://twitter.com/budparr).**
+**Check out my website [The New Dynamic](https://www.thenewdynamic.org/) or say hello on [Twitter](https://twitter.com/budparr).**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
