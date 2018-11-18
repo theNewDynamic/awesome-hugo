@@ -16,3 +16,8 @@
 Official and unofficial resources for getting started with or using Hugo.
 
 - Please only add projects that are active and maintained.
+
+### Gists
+
+Gists are succinct code snippets. Please only include things that are useful to many.
+
