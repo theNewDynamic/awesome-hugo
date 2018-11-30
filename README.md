@@ -194,6 +194,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Multilingual Part 2: Strings localization](https://regisphilibert.com/blog/2018/08/hugo-multilingual-part-2-i18n-string-localization/) - By Régis Philibert.
 - [WordPress to Static Site Generator (Hugo) Migration and Deployment](https://hackernoon.com/wordpress-to-static-site-generator-hugo-migration-and-deployment-788a69b93e66) - By Phong Huynh.
 - [Configure Hugo to Ingest into Elasticsearch](https://docs.bonsai.io/docs/hugo)
+- [Schema Markup For Hugo](https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/) - By Desmond Lua.
 
 
 
