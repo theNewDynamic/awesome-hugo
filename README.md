@@ -79,6 +79,11 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [eSolia](http://esolia.com/)  
 - [The Webmaster](https://www.thewebmaster.com)
 
+- [eSolia](http://esolia.com/) [(repo)](https://github.com/RickCogley/eSolia_2018)
+- [Rick Cogley Live](https://live.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-live)
+- [Rick Cogley Central](https://rick.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-Hugo2015)
+- [Japan VAD Council](http://j-vad.jp) 
+- [Japan PVAD Council](https://j-pvad.jp/en/)rick
 
 ## Articles
 
