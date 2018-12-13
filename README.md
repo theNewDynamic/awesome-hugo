@@ -200,6 +200,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Configure Hugo to Ingest into Elasticsearch](https://docs.bonsai.io/docs/hugo)
 - [Schema Markup For Hugo](https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/) - By Desmond Lua.
 - [Setup Hugo with GitLab CI on Ubuntu remote server](https://therandombits.com/2018/12/setup-hugo-with-gitlab-ci-on-ubuntu-remote-server/) - By M M Arif.
+- [How to add Isso comments to your site](https://therandombits.com/2018/12/how-to-add-isso-comments-to-your-site/) - By M M Arif.
 
 
 
