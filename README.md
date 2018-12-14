@@ -203,7 +203,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Schema Markup For Hugo](https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/) - By Desmond Lua.
 - [Setup Hugo with GitLab CI on Ubuntu remote server](https://therandombits.com/2018/12/setup-hugo-with-gitlab-ci-on-ubuntu-remote-server/) - By M M Arif.
 - [Style a markdown table with Bootstrap classes in Hugo](https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/) - By Zachary Betz.
-
+- [Processing Responsive Images with Hugo](https://laurakalbag.com/processing-responsive-images-with-hugo/) - By Laura Kalbag
 
 
 ## Gists
