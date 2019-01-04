@@ -160,7 +160,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Migrating from Jekyll+GitHubPages to Hugo+Netlify](https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/) - By Sara Soueidan.
 - [Deploying Hugo on Bluemix](https://dev.to/greyhoundforty/deploying-hugo-on-bluemix) - By Ryan Tiffany, dev.to.
 - [Building a JAMstack site with Hugo and Azure Functions](http://conductofcode.io/post/building-a-jamstack-site-with-hugo-and-azure-functions/) - By Henrik Lau Eriksson.
-- [Switching to Hugo from Nikola](https://sadanand-singh.github.io/posts/nikola2hugo/) - By Sadanand Singh.
 - [Embed your typeform on Hugo sites](https://www.typeform.com/help/embed-typeform-hugo-sites/) - By Typeform.
 - [Automating Static Website Deployment, Part 1](http://computersfearme.com/post/automate-website-updates-part1/) - By AlphaGeek.
 - [A Gentle Introduction to Creating a Minimal Hugo Site](http://arunrocks.com/minimal-hugo-site-tutorial/) - By Arun Ravindran.
@@ -203,7 +202,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Schema Markup For Hugo](https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/) - By Desmond Lua.
 - [Setup Hugo with GitLab CI on Ubuntu remote server](https://therandombits.com/2018/12/setup-hugo-with-gitlab-ci-on-ubuntu-remote-server/) - By M M Arif.
 - [Style a markdown table with Bootstrap classes in Hugo](https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/) - By Zachary Betz.
-- [Processing Responsive Images with Hugo](https://laurakalbag.com/processing-responsive-images-with-hugo/) - By Laura Kalbag
+- [Processing Responsive Images with Hugo](https://laurakalbag.com/processing-responsive-images-with-hugo/) - By Laura Kalbag.
 - [How to add Isso comments to your site](https://therandombits.com/2018/12/how-to-add-isso-comments-to-your-site/) - By M M Arif.
 
 ## Gists
