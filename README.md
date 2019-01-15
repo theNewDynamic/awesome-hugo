@@ -205,6 +205,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Style a markdown table with Bootstrap classes in Hugo](https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/) - By Zachary Betz.
 - [Processing Responsive Images with Hugo](https://laurakalbag.com/processing-responsive-images-with-hugo/) - By Laura Kalbag.
 - [How to add Isso comments to your site](https://therandombits.com/2018/12/how-to-add-isso-comments-to-your-site/) - By M M Arif.
+- [Make a Hugo blog from scratch](https://zwbetz.com/make-a-hugo-blog-from-scratch/) - By Zachary Betz.
 
 ## Gists
 
