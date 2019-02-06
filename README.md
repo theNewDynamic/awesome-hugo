@@ -14,6 +14,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
   - [Official](#official)
 - [Tools](#tools)
 - [Starters](#starters)
+- [Theme Components](#theme-components)
 - [Projects using Hugo](#projects-using-hugo)  
 - [Articles](#articles)  
 - [Gists](#gists)
@@ -50,6 +51,11 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.](https://github.com/rdwatters/hugo-starter)
 - [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas) 
 - [Hugo's Pipes functionality using TailwindCSS and PurgeCSS](https://github.com/budparr/hugopipes-tailwindcss)
+
+
+## Theme Components
+
+- [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses.
 
 
 ## Projects using Hugo
