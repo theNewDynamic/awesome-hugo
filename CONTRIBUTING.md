@@ -21,3 +21,4 @@ Official and unofficial resources for getting started with or using Hugo.
 
 Gists are succinct code snippets. Please only include things that are useful to many.
 
+You can run [Awesome Lint](https://github.com/sindresorhus/awesome-lint) against your changes, if you like.
