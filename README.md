@@ -93,6 +93,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Japan PVAD Council](https://j-pvad.jp/en/)
 - [mbedded.ninja](https://blog.mbedded.ninja)
 - [Nozbe](https://nozbe.com)
+- [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website)
+
 
 ## Articles
 
