@@ -218,6 +218,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Make a Hugo blog from scratch](https://zwbetz.com/make-a-hugo-blog-from-scratch/) - By Zachary Betz.
 - [Making Hugo’s Footnotes Accessible](https://danielpost.com/articles/making-hugos-footnotes-accessible/) - By Daniel Post.
 - [Deploy your Hugo site through SSH with Travis](https://blog.martignoni.net/2019/03/deploy-your-hugo-site/) - By Nicolas Martignoni.
+- [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/) - By Chris Macrae.
 
 ## Gists
 
