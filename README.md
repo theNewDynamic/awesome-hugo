@@ -142,7 +142,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to show related posts in Hugo](https://novelist.xyz/tech/related-posts-in-hugo/) - By Peter Y. Chuang.
 - [Choose Hugo Over Jekyll - habd.as](https://habd.as/choose-hugo-over-jekyll/) - By Josh Habdas.
 - [NPM scripts for building and deploying Hugo sites](https://www.aerobatic.com/blog/hugo-npm-buildtool-setup/) - By Aerobatic.
-- [NPM scripts for building and deploying Hugo sites](https://www.aerobatic.com/blog/hugo-npm-buildtool-setup/) - By Aerobatic.
 - [Deploy a Hugo site to Aerobatic with CircleCI](https://www.aerobatic.com/blog/hugo-github-circleci/) - By Aerobatic.
 - [Hugo dateFormat](https://gohugohq.com/howto/hugo-dateformat/) - By GoHugoHQ.
 - [Them's Good Broth! | Adding Isso Comments To Hugo](https://stiobhart.net/2017-02-24-isso-comments/) - By Stíobhart Matulevicz.
