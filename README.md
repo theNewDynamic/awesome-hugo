@@ -52,6 +52,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas) 
 - [Hugo's Pipes functionality using TailwindCSS and PurgeCSS](https://github.com/budparr/hugopipes-tailwindcss)
 - [GitHub Action to build Hugo site](https://github.com/lowply/build-hugo)
+- [hugo-bin: Binary wrapper for Hugo](https://github.com/fenneclab/hugo-bin)
 
 
 ## Theme Components
@@ -141,7 +142,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Serve static websites with Caddy web server](https://novelist.xyz/tech/caddy-webserver/) - By Peter Y. Chuang.
 - [How to show related posts in Hugo](https://novelist.xyz/tech/related-posts-in-hugo/) - By Peter Y. Chuang.
 - [Choose Hugo Over Jekyll - habd.as](https://habd.as/choose-hugo-over-jekyll/) - By Josh Habdas.
-- [NPM scripts for building and deploying Hugo sites](https://www.aerobatic.com/blog/hugo-npm-buildtool-setup/) - By Aerobatic.
 - [NPM scripts for building and deploying Hugo sites](https://www.aerobatic.com/blog/hugo-npm-buildtool-setup/) - By Aerobatic.
 - [Deploy a Hugo site to Aerobatic with CircleCI](https://www.aerobatic.com/blog/hugo-github-circleci/) - By Aerobatic.
 - [Hugo dateFormat](https://gohugohq.com/howto/hugo-dateformat/) - By GoHugoHQ.
