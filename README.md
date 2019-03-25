@@ -220,6 +220,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Making Hugo’s Footnotes Accessible](https://danielpost.com/articles/making-hugos-footnotes-accessible/) - By Daniel Post.
 - [Deploy your Hugo site through SSH with Travis](https://blog.martignoni.net/2019/03/deploy-your-hugo-site/) - By Nicolas Martignoni.
 - [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/) - By Chris Macrae.
+- [How to Add Copy to Clipboard Buttons to Code Blocks in Hugo](https://www.dannyguo.com/blog/how-to-add-copy-to-clipboard-buttons-to-code-blocks-in-hugo/) - By Danny Guo.
 
 ## Gists
 
