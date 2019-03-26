@@ -14,6 +14,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
   - [Official](#official)
 - [Tools](#tools)
 - [Starters](#starters)
+- [Theme Components](#theme-components)
 - [Projects using Hugo](#projects-using-hugo)  
 - [Articles](#articles)  
 - [Gists](#gists)
@@ -37,6 +38,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ## Tools
 
 - [Hugo CLI](https://www.npmjs.com/package/hugo-cli)
+- [Hugo Helper for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo) 
+- [Hugo Language and Syntax Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=budparr.language-hugo-vscode)
 
 
 ## Starters
@@ -48,6 +51,14 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.](https://github.com/rdwatters/hugo-starter)
 - [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas) 
 - [Hugo's Pipes functionality using TailwindCSS and PurgeCSS](https://github.com/budparr/hugopipes-tailwindcss)
+- [GitHub Action to build Hugo site](https://github.com/lowply/build-hugo)
+- [hugo-bin: Binary wrapper for Hugo](https://github.com/fenneclab/hugo-bin)
+
+
+## Theme Components
+
+- [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses.
+- [hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices.
 
 
 ## Projects using Hugo
@@ -83,6 +94,9 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Rick Cogley Central](https://rick.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-Hugo2015)
 - [Japan VAD Council](http://j-vad.jp) 
 - [Japan PVAD Council](https://j-pvad.jp/en/)
+- [mbedded.ninja](https://blog.mbedded.ninja)
+- [Nozbe](https://nozbe.com)
+- [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website)
 - [Gitea](https://gitea.io/)
 
 ## Articles
@@ -129,7 +143,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to show related posts in Hugo](https://novelist.xyz/tech/related-posts-in-hugo/) - By Peter Y. Chuang.
 - [Choose Hugo Over Jekyll - habd.as](https://habd.as/choose-hugo-over-jekyll/) - By Josh Habdas.
 - [NPM scripts for building and deploying Hugo sites](https://www.aerobatic.com/blog/hugo-npm-buildtool-setup/) - By Aerobatic.
-- [NPM scripts for building and deploying Hugo sites](https://www.aerobatic.com/blog/hugo-npm-buildtool-setup/) - By Aerobatic.
 - [Deploy a Hugo site to Aerobatic with CircleCI](https://www.aerobatic.com/blog/hugo-github-circleci/) - By Aerobatic.
 - [Hugo dateFormat](https://gohugohq.com/howto/hugo-dateformat/) - By GoHugoHQ.
 - [Them's Good Broth! | Adding Isso Comments To Hugo](https://stiobhart.net/2017-02-24-isso-comments/) - By Stíobhart Matulevicz.
@@ -159,7 +172,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Migrating from Jekyll+GitHubPages to Hugo+Netlify](https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/) - By Sara Soueidan.
 - [Deploying Hugo on Bluemix](https://dev.to/greyhoundforty/deploying-hugo-on-bluemix) - By Ryan Tiffany, dev.to.
 - [Building a JAMstack site with Hugo and Azure Functions](http://conductofcode.io/post/building-a-jamstack-site-with-hugo-and-azure-functions/) - By Henrik Lau Eriksson.
-- [Switching to Hugo from Nikola](https://sadanand-singh.github.io/posts/nikola2hugo/) - By Sadanand Singh.
 - [Embed your typeform on Hugo sites](https://www.typeform.com/help/embed-typeform-hugo-sites/) - By Typeform.
 - [Automating Static Website Deployment, Part 1](http://computersfearme.com/post/automate-website-updates-part1/) - By AlphaGeek.
 - [A Gentle Introduction to Creating a Minimal Hugo Site](http://arunrocks.com/minimal-hugo-site-tutorial/) - By Arun Ravindran.
@@ -201,8 +213,14 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Configure Hugo to Ingest into Elasticsearch](https://docs.bonsai.io/docs/hugo)
 - [Schema Markup For Hugo](https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/) - By Desmond Lua.
 - [Setup Hugo with GitLab CI on Ubuntu remote server](https://therandombits.com/2018/12/setup-hugo-with-gitlab-ci-on-ubuntu-remote-server/) - By M M Arif.
-
-
+- [Style a markdown table with Bootstrap classes in Hugo](https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/) - By Zachary Betz.
+- [Processing Responsive Images with Hugo](https://laurakalbag.com/processing-responsive-images-with-hugo/) - By Laura Kalbag.
+- [How to add Isso comments to your site](https://therandombits.com/2018/12/how-to-add-isso-comments-to-your-site/) - By M M Arif.
+- [Make a Hugo blog from scratch](https://zwbetz.com/make-a-hugo-blog-from-scratch/) - By Zachary Betz.
+- [Making Hugo’s Footnotes Accessible](https://danielpost.com/articles/making-hugos-footnotes-accessible/) - By Daniel Post.
+- [Deploy your Hugo site through SSH with Travis](https://blog.martignoni.net/2019/03/deploy-your-hugo-site/) - By Nicolas Martignoni.
+- [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/) - By Chris Macrae.
+- [How to Add Copy to Clipboard Buttons to Code Blocks in Hugo](https://www.dannyguo.com/blog/how-to-add-copy-to-clipboard-buttons-to-code-blocks-in-hugo/) - By Danny Guo.
 
 ## Gists
 
