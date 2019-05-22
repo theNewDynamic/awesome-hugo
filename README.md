@@ -1,4 +1,4 @@
-# Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://github.com/zeit/next.js)
+# Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">]
 
 A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 
@@ -238,11 +238,13 @@ Gists are succinct code snippets. Please only include things that are useful to 
 
 
 ## Contributing
+
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
 **Check out my website [The New Dynamic](https://www.thenewdynamic.org/) or say hello on [Twitter](https://twitter.com/budparr).**
 
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
