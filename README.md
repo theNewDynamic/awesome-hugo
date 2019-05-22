@@ -1,6 +1,6 @@
 # Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://github.com/zeit/next.js)
 
-A curated list of awesome things related to Hugo, The world's fastest framework for building websites. 
+A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 
 Hugo is a general-purpose website framework—written in Go—that generates static webpages.
 
@@ -15,8 +15,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Tools](#tools)
 - [Starters](#starters)
 - [Theme Components](#theme-components)
-- [Projects using Hugo](#projects-using-hugo)  
-- [Articles](#articles)  
+- [Projects using Hugo](#projects-using-hugo)
+- [Articles](#articles)
 - [Gists](#gists)
 
 
@@ -27,18 +27,18 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 - [GitHub](https://github.com/gohugoio/hugo)
 - [Twitter](https://twitter.com/GoHugoIO)
-- [Website](https://gohugo.io/) 
-  - [News](https://gohugo.io/news/) 
-  - [Docs](https://gohugo.io/documentation/) 
-  - [Themes](https://themes.gohugo.io/) 
-- [Discussion Forum](https://discourse.gohugo.io/) 
-- [Gitter Channel (for Hugo development discussion only)](https://gitter.im/spf13/hugo) 
+- [Website](https://gohugo.io/)
+  - [News](https://gohugo.io/news/)
+  - [Docs](https://gohugo.io/documentation/)
+  - [Themes](https://themes.gohugo.io/)
+- [Discussion Forum](https://discourse.gohugo.io/)
+- [Gitter Channel (for Hugo development discussion only)](https://gitter.im/spf13/hugo)
 
-    
+
 ## Tools
 
 - [Hugo CLI](https://www.npmjs.com/package/hugo-cli)
-- [Hugo Helper for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo) 
+- [Hugo Helper for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo)
 - [Hugo Language and Syntax Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=budparr.language-hugo-vscode)
 
 
@@ -49,7 +49,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Webpack Boilerplate](https://github.com/vseventer/hugo-webpack-boilerplate)
 - [Hugo + Gulp starter project](https://github.com/jbrodriguez/hugulp)
 - [Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.](https://github.com/rdwatters/hugo-starter)
-- [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas) 
+- [Atlas: Hugo boilerplate](https://github.com/indigotree/atlas)
 - [Hugo's Pipes functionality using TailwindCSS and PurgeCSS](https://github.com/budparr/hugopipes-tailwindcss)
 - [GitHub Action to build Hugo site](https://github.com/lowply/build-hugo)
 - [hugo-bin: Binary wrapper for Hugo](https://github.com/fenneclab/hugo-bin)
@@ -88,12 +88,12 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Boomtown Fair](http://www.boomtownfair.co.uk/)
 - [labs.usa.gov](https://labs.usa.gov/)
 - [Forest Giant](https://www.forestgiant.com/)
-- [eSolia](http://esolia.com/)  
+- [eSolia](http://esolia.com/)
 - [The Webmaster](https://www.thewebmaster.com)
 - [eSolia](http://esolia.com/) [(repo)](https://github.com/RickCogley/eSolia_2018)
 - [Rick Cogley Live](https://live.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-live)
 - [Rick Cogley Central](https://rick.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-Hugo2015)
-- [Japan VAD Council](http://j-vad.jp) 
+- [Japan VAD Council](http://j-vad.jp)
 - [Japan PVAD Council](https://j-pvad.jp/en/)
 - [mbedded.ninja](https://blog.mbedded.ninja)
 - [Nozbe](https://nozbe.com)
@@ -205,7 +205,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Enhance Your Hugo JSON API Using Custom Output Formats and Netlify Redirects](https://forestry.io/blog/hugo-json-api-part-2/) - By Régis Philibert, Forestry.io.
 - [Create a blog using pre-built Serverless Components and Hugo](https://serverless.com/blog/how-to-create-blog-using-components-hugo/) - By Rupak Ganguly.
 - [How to cache-bust and concatenate JS and SASS files with Hugo in 2018](https://blog.fullstackdigital.com/how-to-cache-bust-and-concatenate-js-and-sass-files-with-hugo-in-2018-9266fd3c411e) - By Ben Bozzay.
-- [How to use Hugo template variables in SCSS files (in 2018)](https://blog.fullstackdigital.com/how-to-use-hugo-template-variables-in-scss-files-in-2018-b8a834accce) - By Ben Bozzay. 
+- [How to use Hugo template variables in SCSS files (in 2018)](https://blog.fullstackdigital.com/how-to-use-hugo-template-variables-in-scss-files-in-2018-b8a834accce) - By Ben Bozzay.
 - [Hugo Pipes' Revolution](https://regisphilibert.com/blog/2018/07/hugo-pipes-and-asset-processing-pipeline/) - By Régis Philibert.
 - [Hugo tips: How to create author pages](https://www.netlify.com/blog/2018/07/24/hugo-tips-how-to-create-author-pages/) - By Irene Morente, Netlify.
 - [Gatsby vs Hugo, a detailed comparison](https://learnitmyway.com/gatsby-vs-hugo/) - By Developer Davo.
