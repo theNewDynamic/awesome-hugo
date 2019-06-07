@@ -118,6 +118,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo on Netlify — Insanely Fast Deploys](https://www.netlify.com/blog/2015/07/30/hugo-on-netlify-insanely-fast-deploys/) - By Netlify.
 - [Why did eSolia Choose Hugo? A static site generator optimized for performance](https://esolia.com/post/why-did-esolia-choose-hugo/) - By Rick Cogley, eSolia.
 - [Static Site E-Commerce (part 3): Integrating Snipcart with Hugo](https://snipcart.com/blog/snipcart-hugo-integration/) - By Snipcart.
+- [Hugo Tutorial: Build and Host a Fast E-commerce site](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce)
 - [Static sites go all Hollywood](https://speakerdeck.com/philhawksworth/static-sites-go-all-hollywood/) - By Phil Hawksworth.
 - [Hands on Experience with Hugo as a Static Site Generator](http://usersnap.com/blog/hands-on-experience-with-hugo-static-site-generator/) - By Thomas Peham, Usersnap.
 - [Hugo Continuous Integration with Wercker and Bitbucket](http://www.aerobatic.com/blog/hugo-continuous-integration-with-wercker-aerobatic-and-bitbucket.html) - By Aerobatic.
