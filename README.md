@@ -1,4 +1,4 @@
-# Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">]
+# Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <img src="hugo-logo-wide.svg" align="right" width="250">
 
 A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 
