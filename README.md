@@ -101,6 +101,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website)
 - [Gitea](https://gitea.io/)
 - [Budibase](https://www.budibase.com/)
+- [SpotlightPA](https://www.spotlightpa.org/) [(repo)](https://github.com/spotlightpa/poor-richard)
 
 
 ## Articles
