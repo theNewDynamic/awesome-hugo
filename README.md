@@ -1,5 +1,7 @@
 # Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <img src="hugo-logo-wide.svg" align="right" width="250">
 
+[awesome-hugo.dev](http://awesome-hugo.dev/)
+
 A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 
 Hugo is a general-purpose website framework—written in Go—that generates static webpages.
