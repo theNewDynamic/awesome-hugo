@@ -113,7 +113,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Major Release for Hugo](https://github.com/spf13/hugo/releases/) - By Steve Francia.
 - [Making Content Editors and Web Developers Happy Again](http://code.makery.ch/blog/making-content-editors-and-web-developers-happy/) - By Code.Makery.
 - [Deploying Static Sites to CloudFront](https://jamesturk.net/posts/deploying-hugo-to-cloudfront/) - By James Turk.
-- [Static Websites with Hugo on Google Cloud Storage](http://www.moxie.io/post/static-websites-with-hugo-on-google-cloud-storage/) - By Moxie Input/Output.
 - [How To Use NPM As A Build Tool With Hugo - The Codestead](http://thecodestead.com/post/how-to-use-npm-as-a-build-tool-with-hugo/) - By Isaac Gregson.
 - [Bleve Search for Hugo Sites](http://www.blevesearch.com/news/Site-Search/) - By Bleve.
 - [Hugo on Netlify — Insanely Fast Deploys](https://www.netlify.com/blog/2015/07/30/hugo-on-netlify-insanely-fast-deploys/) - By Netlify.
@@ -135,7 +134,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Tips and tricks for building a theme in Hugo](https://medium.com/@jeffmcmorris/tips-and-tricks-for-building-a-theme-in-hugo-4806bdd747d7) - By Jeff McMorris.
 - [Switching to Aerobatic Static Site Hosting](https://serverlesscode.com/post/aerobatic-static-site-hosting-conversion/) - By Ryan Brown, Serverless Code.
 - [Leverage shortcodes in Hugo](https://jpescador.com/blog/leverage-shortcodes-in-hugo/) - By Julio Pescador.
-- [A reactive serverless cms for the technology blog · Razorfish Technology Blog](http://technology.razorfish.com/2016/05/06/a-reactive-serverless-cms-for-the-technology-blog/index.html) - By Razorfish.
 - [How to use Data Files in Hugo: an example](https://novelist.xyz/tech/hugo-data-files/) - By Peter Y. Chuang.
 - [Considerations when converting from WordPress.com to Hugo](https://eklausmeier.wordpress.com/2016/06/13/considerations-when-converting-from-wordpress-com-to-hugo/) - By Elmar Klausmeier.
 - [Limitations of Hugo's Date Format Templating](https://www.madboa.com/blog/2016/08/24/hugo-dateformat/) - By Paul Heinlein.
