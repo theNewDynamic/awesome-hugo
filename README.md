@@ -2,7 +2,7 @@
 
 [awesome-hugo.dev](http://awesome-hugo.dev/)
 
-A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
+A curated list of awesome things related to Hugo, the world's fastest framework for building websites.
 
 Hugo is a general-purpose website framework—written in Go—that generates static webpages.
 
