@@ -228,9 +228,9 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to Add Copy to Clipboard Buttons to Code Blocks in Hugo](https://www.dannyguo.com/blog/how-to-add-copy-to-clipboard-buttons-to-code-blocks-in-hugo/) - By Danny Guo.
 - [Preview your site from any device on your network with these hugo server options](https://zwbetz.com/preview-your-site-from-any-device-on-your-network-with-these-hugo-server-options/) - By Zachary Betz.
 - [Modular content modeling in the JAMstack framework with Forestry's Front Matter Templates and Hugo](https://www.neotericdesign.com/articles/2020/01/modular-content-modeling-in-the-jamstack-framework-with-forestrys-front-matter-templates-and-hugo/) - By Nicholas Gracilla.
-- [Building This Website](https://joshbradley.me/building-this-website/) - By Josh Bradley
-- [Add Search to a Hugo site with Lunr.js and Node.js](https://codewithhugo.com/hugo-lunrjs-search-index/) - By Hugo Di Francesco
-- [Automate scheduled builds with Hugo, Netlify, and GitLab’s CI/CD pipeline](https://www.neotericdesign.com/articles/2020/02/automate-scheduled-builds-with-hugo-netlify-and-gitlabs-ci/cd-pipeline/) - By Nicholas Gracilla
+- [Building This Website](https://joshbradley.me/building-this-website/) - By Josh Bradley.
+- [Add Search to a Hugo site with Lunr.js and Node.js](https://codewithhugo.com/hugo-lunrjs-search-index/) - By Hugo Di Francesco.
+- [Automate scheduled builds with Hugo, Netlify, and GitLab’s CI/CD pipeline](https://www.neotericdesign.com/articles/2020/02/automate-scheduled-builds-with-hugo-netlify-and-gitlabs-ci/cd-pipeline/) - By Nicholas Gracilla.
 
 
 ## Gists
