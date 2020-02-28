@@ -103,6 +103,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Gitea](https://gitea.io/)
 - [Budibase](https://www.budibase.com/)
 - [SpotlightPA](https://www.spotlightpa.org/) [(repo)](https://github.com/spotlightpa/poor-richard)
+- [aether](https://getaether.net/) [(case stufy)](https://gohugo.io/showcase/aether/)
 
 
 ## Articles
