@@ -231,6 +231,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Modular content modeling in the JAMstack framework with Forestry's Front Matter Templates and Hugo](https://www.neotericdesign.com/articles/2020/01/modular-content-modeling-in-the-jamstack-framework-with-forestrys-front-matter-templates-and-hugo/) - By Nicholas Gracilla.
 - [Building This Website](https://joshbradley.me/building-this-website/) - By Josh Bradley
 - [Add Search to a Hugo site with Lunr.js and Node.js](https://codewithhugo.com/hugo-lunrjs-search-index/) - By Hugo Di Francesco
+- [Automate scheduled builds with Hugo, Netlify, and GitLab’s CI/CD pipeline](https://www.neotericdesign.com/articles/2020/02/automate-scheduled-builds-with-hugo-netlify-and-gitlabs-ci/cd-pipeline/) - By Nicholas Gracilla
 
 
 ## Gists
