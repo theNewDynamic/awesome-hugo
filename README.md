@@ -86,7 +86,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Boris FX](http://borisfx.com/)
 - [1Password](https://1password.com)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Linking Art Gallery](http://www.linkingart.gallery/)
 - [Cinematt](https://cinematt.photography) [(repo)](https://github.com/matfin/cinematt)
 - [Boomtown Fair](http://www.boomtownfair.co.uk/)
 - [labs.usa.gov](https://labs.usa.gov/)
