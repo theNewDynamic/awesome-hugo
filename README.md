@@ -64,7 +64,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices.
 - [hugo-loremipsum](https://github.com/martignoni/hugo-loremipsum) - A Hugo theme component to generate Lorem ipsum.
 - [hugo-social-metadata](https://github.com/msfjarvis/hugo-social-metadata) - A Hugo theme component to generate social metadata.
-- [hudo-redirector](https://github.com/gcc42/hugo-redirector) - A Hugo theme component to automate redirection on Hugo sites (with SEO best practices).
+- [hudo-redirect](https://github.com/gcc42/hugo-redirect) - A Hugo theme component to setup URL redirections/aliasing on Hugo sites.
 
 ## Projects using Hugo
 
