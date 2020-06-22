@@ -111,7 +111,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ## Articles
 
 - [Hugo: Beyond the Defaults](https://npf.io/2014/08/hugo-beyond-the-defaults/) - By Nate Finch.
-- [6 Static Blog Generators That Aren’t Jekyll](http://www.sitepoint.com/6-static-blog-generators-arent-jekyll/) - By David Turnbull, Sitepoint.
+- [6 Static Blog Generators That Aren't Jekyll](http://www.sitepoint.com/6-static-blog-generators-arent-jekyll/) - By David Turnbull, Sitepoint.
 - [Static Site Generators are Overkill](http://thecodebarbarian.com/2015/02/06/static_site_generators) - By Valeri Karpov.
 - [Comparing Static Site Engines](https://youtu.be/R-fJWOO1bjE) - By Brian Rinaldi at SFHTML5.
 - [Major Release for Hugo](https://github.com/spf13/hugo/releases/) - By Steve Francia.
@@ -128,7 +128,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Continuous Integration with Wercker and Bitbucket](http://www.aerobatic.com/blog/hugo-continuous-integration-with-wercker-aerobatic-and-bitbucket.html) - By Aerobatic.
 - [How To Install and Use Hugo, a Static Site Generator, on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04/) - By Justin Ellingwood.
 - [Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo](http://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/) - By Mathias Biilmann, Smashing Magazine.
-- [The World’s Greatest (Free) Static Site Builders / Generators](http://slideshow-s9.github.io/demos/staticgen.html#1) - By Vienna.html.
+- [The World's Greatest (Free) Static Site Builders/Generators](http://slideshow-s9.github.io/demos/staticgen.html#1) - By Vienna.html.
 - [Deploy your blog to GitHubpages automatically using Hugo and Travis](http://rcoedo.com/post/hugo-static-site-generator/) - By Roman Coedo.
 - [How to host Hugo static website generator on AWS Lambda](http://bezdelev.com/post/hugo-aws-lambda-static-website/) - By Ilya Bezdelev.
 - [Implementing blog theme bells and whistles in Hugo: pagination, pages, related posts, and tag lists](http://justindunham.net/blog-bells-and-whistles-in-hugo/) - By Justin Dunham.
@@ -225,7 +225,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Processing Responsive Images with Hugo](https://laurakalbag.com/processing-responsive-images-with-hugo/) - By Laura Kalbag.
 - [How to add Isso comments to your site](https://therandombits.com/2018/12/how-to-add-isso-comments-to-your-site/) - By M M Arif.
 - [Make a Hugo blog from scratch](https://zwbetz.com/make-a-hugo-blog-from-scratch/) - By Zachary Betz.
-- [Making Hugo’s Footnotes Accessible](https://danielpost.com/articles/making-hugos-footnotes-accessible/) - By Daniel Post.
+- [Making Hugo's Footnotes Accessible](https://danielpost.com/articles/making-hugos-footnotes-accessible/) - By Daniel Post.
 - [Deploy your Hugo site through SSH with Travis](https://blog.martignoni.net/2019/03/deploy-your-hugo-site/) - By Nicolas Martignoni.
 - [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/) - By Chris Macrae.
 - [How to Add Copy to Clipboard Buttons to Code Blocks in Hugo](https://www.dannyguo.com/blog/how-to-add-copy-to-clipboard-buttons-to-code-blocks-in-hugo/) - By Danny Guo.
@@ -234,9 +234,9 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Modular content modeling in the JAMstack framework with Forestry's Front Matter Templates and Hugo](https://www.neotericdesign.com/articles/2020/01/modular-content-modeling-in-the-jamstack-framework-with-forestrys-front-matter-templates-and-hugo/) - By Nicholas Gracilla.
 - [Building This Website](https://joshbradley.me/building-this-website/) - By Josh Bradley.
 - [Add Search to a Hugo site with Lunr.js and Node.js](https://codewithhugo.com/hugo-lunrjs-search-index/) - By Hugo Di Francesco.
-- [Automate scheduled builds with Hugo, Netlify, and GitLab’s CI/CD pipeline](https://www.neotericdesign.com/articles/2020/02/automate-scheduled-builds-with-hugo-netlify-and-gitlabs-ci/cd-pipeline/) - By Nicholas Gracilla.
-- [Create Your Free Developer Blog Using Hugo And Firebase](https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/) - By Zara Cooper
-- [Hugo modules for "dummies"](https://craftsmandigital.net/blog/hugo-modules/) - By Jon Arne Viksås
+- [Automate scheduled builds with Hugo, Netlify, and GitLab's CI/CD pipeline](https://www.neotericdesign.com/articles/2020/02/automate-scheduled-builds-with-hugo-netlify-and-gitlabs-ci/cd-pipeline/) - By Nicholas Gracilla.
+- [Create Your Free Developer Blog Using Hugo And Firebase](https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/) - By Zara Cooper.
+- [Hugo modules for "dummies"](https://craftsmandigital.net/blog/hugo-modules/) - By Jon Arne Viksås.
 - [Add search functionality to your blog listing page](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/) - By Zachary Betz.
 
 
