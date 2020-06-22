@@ -1,10 +1,12 @@
-# Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">]
+# Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <img src="hugo-logo-wide.svg" align="right" width="250">
 
-A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
+[awesome-hugo.dev](http://awesome-hugo.dev/)
+
+A curated list of awesome things related to Hugo, the world's fastest framework for building websites.
 
 Hugo is a general-purpose website framework—written in Go—that generates static webpages.
 
-> Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere…and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP. We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+> Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere… and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP. We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
 
 — Paraphrased from ["What is Hugo"](https://gohugo.io/about/what-is-hugo/).
 
@@ -61,7 +63,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses.
 - [hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices.
 - [hugo-loremipsum](https://github.com/martignoni/hugo-loremipsum) - A Hugo theme component to generate Lorem ipsum.
-
+- [hugo-social-metadata](https://github.com/msfjarvis/hugo-social-metadata) - A Hugo theme component to generate social metadata.
+- [hudo-redirect](https://github.com/gcc42/hugo-redirect) - A Hugo theme component to setup URL redirections/aliasing on Hugo sites.
 
 ## Projects using Hugo
 
@@ -84,7 +87,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Boris FX](http://borisfx.com/)
 - [1Password](https://1password.com)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Linking Art Gallery](http://www.linkingart.gallery/)
 - [Cinematt](https://cinematt.photography) [(repo)](https://github.com/matfin/cinematt)
 - [Boomtown Fair](http://www.boomtownfair.co.uk/)
 - [labs.usa.gov](https://labs.usa.gov/)
@@ -101,7 +103,10 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website)
 - [Gitea](https://gitea.io/)
 - [Budibase](https://www.budibase.com/)
-
+- [SpotlightPA](https://www.spotlightpa.org/) [(repo)](https://github.com/spotlightpa/poor-richard)
+- [aether](https://getaether.net/) [(case stufy)](https://gohugo.io/showcase/aether/)
+- [statsandr.com](https://www.statsandr.com/) [(repo)](https://github.com/AntoineSoetewey/statsandr)
+- [Bootstrap](https://getbootstrap.com/) [(repo)](https://github.com/twbs/bootstrap)
 
 ## Articles
 
@@ -112,7 +117,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Major Release for Hugo](https://github.com/spf13/hugo/releases/) - By Steve Francia.
 - [Making Content Editors and Web Developers Happy Again](http://code.makery.ch/blog/making-content-editors-and-web-developers-happy/) - By Code.Makery.
 - [Deploying Static Sites to CloudFront](https://jamesturk.net/posts/deploying-hugo-to-cloudfront/) - By James Turk.
-- [Static Websites with Hugo on Google Cloud Storage](http://www.moxie.io/post/static-websites-with-hugo-on-google-cloud-storage/) - By Moxie Input/Output.
 - [How To Use NPM As A Build Tool With Hugo - The Codestead](http://thecodestead.com/post/how-to-use-npm-as-a-build-tool-with-hugo/) - By Isaac Gregson.
 - [Bleve Search for Hugo Sites](http://www.blevesearch.com/news/Site-Search/) - By Bleve.
 - [Hugo on Netlify — Insanely Fast Deploys](https://www.netlify.com/blog/2015/07/30/hugo-on-netlify-insanely-fast-deploys/) - By Netlify.
@@ -134,7 +138,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Tips and tricks for building a theme in Hugo](https://medium.com/@jeffmcmorris/tips-and-tricks-for-building-a-theme-in-hugo-4806bdd747d7) - By Jeff McMorris.
 - [Switching to Aerobatic Static Site Hosting](https://serverlesscode.com/post/aerobatic-static-site-hosting-conversion/) - By Ryan Brown, Serverless Code.
 - [Leverage shortcodes in Hugo](https://jpescador.com/blog/leverage-shortcodes-in-hugo/) - By Julio Pescador.
-- [A reactive serverless cms for the technology blog · Razorfish Technology Blog](http://technology.razorfish.com/2016/05/06/a-reactive-serverless-cms-for-the-technology-blog/index.html) - By Razorfish.
 - [How to use Data Files in Hugo: an example](https://novelist.xyz/tech/hugo-data-files/) - By Peter Y. Chuang.
 - [Considerations when converting from WordPress.com to Hugo](https://eklausmeier.wordpress.com/2016/06/13/considerations-when-converting-from-wordpress-com-to-hugo/) - By Elmar Klausmeier.
 - [Limitations of Hugo's Date Format Templating](https://www.madboa.com/blog/2016/08/24/hugo-dateformat/) - By Paul Heinlein.
@@ -228,6 +231,14 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to Add Copy to Clipboard Buttons to Code Blocks in Hugo](https://www.dannyguo.com/blog/how-to-add-copy-to-clipboard-buttons-to-code-blocks-in-hugo/) - By Danny Guo.
 - [Preview your site from any device on your network with these hugo server options](https://zwbetz.com/preview-your-site-from-any-device-on-your-network-with-these-hugo-server-options/) - By Zachary Betz.
 - [TGIH: Themeless & Gitless Introduction to Hugo](https://www.ii.com/themeless-gitless-intro-hugo/) - By Nancy McGough, Infinite Ink.
+- [Modular content modeling in the JAMstack framework with Forestry's Front Matter Templates and Hugo](https://www.neotericdesign.com/articles/2020/01/modular-content-modeling-in-the-jamstack-framework-with-forestrys-front-matter-templates-and-hugo/) - By Nicholas Gracilla.
+- [Building This Website](https://joshbradley.me/building-this-website/) - By Josh Bradley.
+- [Add Search to a Hugo site with Lunr.js and Node.js](https://codewithhugo.com/hugo-lunrjs-search-index/) - By Hugo Di Francesco.
+- [Automate scheduled builds with Hugo, Netlify, and GitLab’s CI/CD pipeline](https://www.neotericdesign.com/articles/2020/02/automate-scheduled-builds-with-hugo-netlify-and-gitlabs-ci/cd-pipeline/) - By Nicholas Gracilla.
+- [Create Your Free Developer Blog Using Hugo And Firebase](https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/) - By Zara Cooper
+- [Hugo modules for "dummies"](https://craftsmandigital.net/blog/hugo-modules/) - By Jon Arne Viksås
+- [Add search functionality to your blog listing page](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/) - By Zachary Betz.
+
 
 ## Gists
 
@@ -235,9 +246,7 @@ Gists are succinct code snippets. Please only include things that are useful to 
 
 - [#gohugo search index with "some" stop words removed](https://gist.github.com/budparr/c09ab912d2ba184b7d962aacbecb2816)
 - [Hugo zsh functions for local serving and deploying via rsync](https://gist.github.com/RickCogley/5673669a5c6e9b05070cd4c50e4bd50f)
-
-
-
+- [Hugo recursive navigation partial](https://gist.github.com/davidejones/4117fe17f96dac72346080734c44a7f5)
 
 ## Contributing
 
