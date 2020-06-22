@@ -6,7 +6,7 @@ A curated list of awesome things related to Hugo, the world's fastest framework 
 
 Hugo is a general-purpose website framework—written in Go—that generates static webpages.
 
-> Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere…and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP. We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+> Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere… and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP. We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
 
 — Paraphrased from ["What is Hugo"](https://gohugo.io/about/what-is-hugo/).
 
@@ -245,9 +245,6 @@ Gists are succinct code snippets. Please only include things that are useful to 
 - [#gohugo search index with "some" stop words removed](https://gist.github.com/budparr/c09ab912d2ba184b7d962aacbecb2816)
 - [Hugo zsh functions for local serving and deploying via rsync](https://gist.github.com/RickCogley/5673669a5c6e9b05070cd4c50e4bd50f)
 - [Hugo recursive navigation partial](https://gist.github.com/davidejones/4117fe17f96dac72346080734c44a7f5)
-
-
-
 
 ## Contributing
 
