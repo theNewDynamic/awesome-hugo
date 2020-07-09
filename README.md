@@ -14,6 +14,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 - [Resources](#resources)
   - [Official](#official)
+  - [Non-Official](#non-official)
 - [Tools](#tools)
 - [Starters](#starters)
 - [Theme Components](#theme-components)
@@ -35,6 +36,10 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
   - [Themes](https://themes.gohugo.io/)
 - [Discussion Forum](https://discourse.gohugo.io/)
 - [Gitter Channel (for Hugo development discussion only)](https://gitter.im/spf13/hugo)
+
+### Non-Official
+
+- [Hugo Best Practices](https://github.com/spech66/hugo-best-practices)
 
 
 ## Tools
