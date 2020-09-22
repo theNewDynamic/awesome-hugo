@@ -236,10 +236,10 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to Add Copy to Clipboard Buttons to Code Blocks in Hugo](https://www.dannyguo.com/blog/how-to-add-copy-to-clipboard-buttons-to-code-blocks-in-hugo/) - By Danny Guo.
 - [Preview your site from any device on your network with these hugo server options](https://zwbetz.com/preview-your-site-from-any-device-on-your-network-with-these-hugo-server-options/) - By Zachary Betz.
 - [TGIH: Themeless & Gitless Introduction to Hugo](https://www.ii.com/themeless-gitless-intro-hugo/) - By Nancy McGough, Infinite Ink.
-- [Modular content modeling in the JAMstack framework with Forestry's Front Matter Templates and Hugo](https://www.neotericdesign.com/articles/2020/01/modular-content-modeling-in-the-jamstack-framework-with-forestrys-front-matter-templates-and-hugo/) - By Nicholas Gracilla.
+- [Modular content modeling with Forestry's Front Matter Templates and Hugo](https://www.neotericdesign.com/articles/modular-content-modeling-in-jamstack-with-hugo-and-forestry/) - By Nicholas Gracilla.
 - [Building This Website](https://joshbradley.me/building-this-website/) - By Josh Bradley.
 - [Add Search to a Hugo site with Lunr.js and Node.js](https://codewithhugo.com/hugo-lunrjs-search-index/) - By Hugo Di Francesco.
-- [Automate scheduled builds with Hugo, Netlify, and GitLab's CI/CD pipeline](https://www.neotericdesign.com/articles/2020/02/automate-scheduled-builds-with-hugo-netlify-and-gitlabs-ci/cd-pipeline/) - By Nicholas Gracilla.
+- [Automate scheduled builds with Hugo, Netlify, and GitLab’s CI/CD pipeline](https://www.neotericdesign.com/articles/automate-scheduled-builds-with-gitlab-pipelines-and-netlify/) - By Nicholas Gracilla.
 - [Create Your Free Developer Blog Using Hugo And Firebase](https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/) - By Zara Cooper.
 - [Hugo modules for "dummies"](https://craftsmandigital.net/blog/hugo-modules/) - By Jon Arne Viksås.
 - [Add search functionality to your blog listing page](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/) - By Zachary Betz.
