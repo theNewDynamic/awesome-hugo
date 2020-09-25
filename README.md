@@ -255,7 +255,7 @@ Gists are succinct code snippets. Please only include things that are useful to 
 
 ## Contributing
 
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](https://github.com/theNewDynamic/awesome-hugo/blob/master/CONTRIBUTING.md). Thank you!
 
 ---
 **Check out my website [The New Dynamic](https://www.thenewdynamic.org/) or say hello on [Twitter](https://twitter.com/budparr).**
