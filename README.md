@@ -65,6 +65,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Theme Components
 
+- [hugo-chart](https://github.com/Shen-Yu/hugo-chart) - A Hugo theme component to display beautiful Charts.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses.
 - [hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices.
 - [hugo-loremipsum](https://github.com/martignoni/hugo-loremipsum) - A Hugo theme component to generate Lorem ipsum.
