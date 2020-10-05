@@ -48,6 +48,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Helper for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo)
 - [Hugo Language and Syntax Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=budparr.language-hugo-vscode)
 - [medium-2-md, Converts medium posts (html) into Jekyll/Hugo compatible markdown files](https://github.com/gautamdhameja/medium-2-md)
+- [Hugo Themer, Extension to help you building Hugo templates](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
+- [Prettier Plugin go-template, Fixes formatting for go template files.](https://www.npmjs.com/package/prettier-plugin-go-template)
 
 ## Starters
 
@@ -240,7 +242,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Modular content modeling with Forestry's Front Matter Templates and Hugo](https://www.neotericdesign.com/articles/modular-content-modeling-in-jamstack-with-hugo-and-forestry/) - By Nicholas Gracilla.
 - [Building This Website](https://joshbradley.me/building-this-website/) - By Josh Bradley.
 - [Add Search to a Hugo site with Lunr.js and Node.js](https://codewithhugo.com/hugo-lunrjs-search-index/) - By Hugo Di Francesco.
-- [Automate scheduled builds with Hugo, Netlify, and GitLab’s CI/CD pipeline](https://www.neotericdesign.com/articles/automate-scheduled-builds-with-gitlab-pipelines-and-netlify/) - By Nicholas Gracilla.
+- [Automate scheduled builds with Hugo, Netlify, and GitLab's CI/CD pipeline](https://www.neotericdesign.com/articles/automate-scheduled-builds-with-gitlab-pipelines-and-netlify/) - By Nicholas Gracilla.
 - [Create Your Free Developer Blog Using Hugo And Firebase](https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/) - By Zara Cooper.
 - [Hugo modules for "dummies"](https://craftsmandigital.net/blog/hugo-modules/) - By Jon Arne Viksås.
 - [Add search functionality to your blog listing page](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/) - By Zachary Betz.
