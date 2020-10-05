@@ -47,6 +47,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo CLI](https://www.npmjs.com/package/hugo-cli)
 - [Hugo Helper for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo)
 - [Hugo Language and Syntax Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=budparr.language-hugo-vscode)
+- [Hugo Integration for all IntelliJ-based IDEs](https://plugins.jetbrains.com/plugin/13215-hugo-integration)
 - [medium-2-md, Converts medium posts (html) into Jekyll/Hugo compatible markdown files](https://github.com/gautamdhameja/medium-2-md)
 - [Hugo Themer, Extension to help you building Hugo templates](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
 - [Prettier Plugin go-template, Fixes formatting for go template files.](https://www.npmjs.com/package/prettier-plugin-go-template)
