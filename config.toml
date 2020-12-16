@@ -1,0 +1,3 @@
+baseURL = "https://awesome-hugo.dev/"
+languageCode = "en-us"
+title = "Awesome Hugo"
