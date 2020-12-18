@@ -13,3 +13,13 @@ command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL"
+
+[[redirects]]
+  from = "https://awesome-hugo.netlify.app"
+  to = "https://www.awesome-hugo.dev"
+  status = 301
+
+[[redirects]]
+  from = "https://awesome-hugo.dev"
+  to = "https://www.awesome-hugo.dev"
+  status = 301
