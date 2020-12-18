@@ -1,6 +1,6 @@
 # Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <img src="hugo-logo-wide.svg" align="right" width="250">
 
-[awesome-hugo.dev](http://awesome-hugo.dev/)
+[awesome-hugo.dev](https://www.awesome-hugo.dev/)
 
 A curated list of awesome things related to Hugo, the world's fastest framework for building websites.
 
@@ -81,7 +81,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Vote.gov](https://vote.gov/) [(repo)](https://github.com/18F/vote-gov)
 - [Visit Paris Region](https://www.visitparisregion.com/en/)
 - [Tomango](https://www.tomango.co.uk/) [(repo)](https://github.com/trys/tomango-2018)
-- [Visual Cinnamon](http://www.visualcinnamon.com)
+- [Visual Cinnamon](https://www.visualcinnamon.com)
 - [Virginia.gov](https://www.virginia.gov)
 - [Tapfiliate](https://tapfiliate.com)
 - [Smallmultiples](https://smallmultiples.com.au)
@@ -93,19 +93,19 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Pretty Fly FPV](https://prettyflyfpv.com)
 - [Forestry.io](https://forestry.io/) [(repo)](https://github.com/forestryio/forestry.io)
 - [Crossref](https://www.crossref.org/)
-- [Boris FX](http://borisfx.com/)
+- [Boris FX](https://borisfx.com/)
 - [1Password](https://1password.com)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Cinematt](https://cinematt.photography) [(repo)](https://github.com/matfin/cinematt)
-- [Boomtown Fair](http://www.boomtownfair.co.uk/)
+- [Boomtown Fair](https://www.boomtownfair.co.uk/)
 - [labs.usa.gov](https://labs.usa.gov/)
 - [Forest Giant](https://www.forestgiant.com/)
-- [eSolia](http://esolia.com/)
+- [eSolia](https://esolia.com/)
 - [The Webmaster](https://www.thewebmaster.com)
-- [eSolia](http://esolia.com/) [(repo)](https://github.com/RickCogley/eSolia_2018)
+- [eSolia](https://esolia.com/) [(repo)](https://github.com/RickCogley/eSolia_2018)
 - [Rick Cogley Live](https://live.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-live)
 - [Rick Cogley Central](https://rick.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-Hugo2015)
-- [Japan VAD Council](http://j-vad.jp)
+- [Japan VAD Council](https://j-vad.jp)
 - [Japan PVAD Council](https://j-pvad.jp/en/)
 - [mbedded.ninja](https://blog.mbedded.ninja)
 - [Nozbe](https://nozbe.com)
@@ -120,29 +120,29 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ## Articles
 
 - [Hugo: Beyond the Defaults](https://npf.io/2014/08/hugo-beyond-the-defaults/) - By Nate Finch.
-- [6 Static Blog Generators That Aren't Jekyll](http://www.sitepoint.com/6-static-blog-generators-arent-jekyll/) - By David Turnbull, Sitepoint.
-- [Static Site Generators are Overkill](http://thecodebarbarian.com/2015/02/06/static_site_generators) - By Valeri Karpov.
+- [6 Static Blog Generators That Aren't Jekyll](https://www.sitepoint.com/6-static-blog-generators-arent-jekyll/) - By David Turnbull, Sitepoint.
+- [Static Site Generators are Overkill](https://thecodebarbarian.com/2015/02/06/static_site_generators) - By Valeri Karpov.
 - [Comparing Static Site Engines](https://youtu.be/R-fJWOO1bjE) - By Brian Rinaldi at SFHTML5.
 - [Major Release for Hugo](https://github.com/spf13/hugo/releases/) - By Steve Francia.
-- [Making Content Editors and Web Developers Happy Again](http://code.makery.ch/blog/making-content-editors-and-web-developers-happy/) - By Code.Makery.
+- [Making Content Editors and Web Developers Happy Again](https://code.makery.ch/blog/making-content-editors-and-web-developers-happy/) - By Code.Makery.
 - [Deploying Static Sites to CloudFront](https://jamesturk.net/posts/deploying-hugo-to-cloudfront/) - By James Turk.
-- [How To Use NPM As A Build Tool With Hugo - The Codestead](http://thecodestead.com/post/how-to-use-npm-as-a-build-tool-with-hugo/) - By Isaac Gregson.
-- [Bleve Search for Hugo Sites](http://www.blevesearch.com/news/Site-Search/) - By Bleve.
+- [How To Use NPM As A Build Tool With Hugo - The Codestead](https://thecodestead.com/post/how-to-use-npm-as-a-build-tool-with-hugo/) - By Isaac Gregson.
+- [Bleve Search for Hugo Sites](https://www.blevesearch.com/news/Site-Search/) - By Bleve.
 - [Hugo on Netlify — Insanely Fast Deploys](https://www.netlify.com/blog/2015/07/30/hugo-on-netlify-insanely-fast-deploys/) - By Netlify.
 - [Why did eSolia Choose Hugo? A static site generator optimized for performance](https://esolia.com/post/why-did-esolia-choose-hugo/) - By Rick Cogley, eSolia.
 - [Static Site E-Commerce (part 3): Integrating Snipcart with Hugo](https://snipcart.com/blog/snipcart-hugo-integration/) - By Snipcart.
 - [Hugo Tutorial: Build and Host a Fast E-commerce site](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce)
 - [Static sites go all Hollywood](https://speakerdeck.com/philhawksworth/static-sites-go-all-hollywood/) - By Phil Hawksworth.
-- [Hands on Experience with Hugo as a Static Site Generator](http://usersnap.com/blog/hands-on-experience-with-hugo-static-site-generator/) - By Thomas Peham, Usersnap.
-- [Hugo Continuous Integration with Wercker and Bitbucket](http://www.aerobatic.com/blog/hugo-continuous-integration-with-wercker-aerobatic-and-bitbucket.html) - By Aerobatic.
+- [Hands on Experience with Hugo as a Static Site Generator](https://usersnap.com/blog/hands-on-experience-with-hugo-static-site-generator/) - By Thomas Peham, Usersnap.
+- [Hugo Continuous Integration with Wercker and Bitbucket](https://www.aerobatic.com/blog/hugo-continuous-integration-with-wercker-aerobatic-and-bitbucket.html) - By Aerobatic.
 - [How To Install and Use Hugo, a Static Site Generator, on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04/) - By Justin Ellingwood.
-- [Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo](http://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/) - By Mathias Biilmann, Smashing Magazine.
-- [The World's Greatest (Free) Static Site Builders/Generators](http://slideshow-s9.github.io/demos/staticgen.html#1) - By Vienna.html.
-- [Deploy your blog to GitHubpages automatically using Hugo and Travis](http://rcoedo.com/post/hugo-static-site-generator/) - By Roman Coedo.
-- [How to host Hugo static website generator on AWS Lambda](http://bezdelev.com/post/hugo-aws-lambda-static-website/) - By Ilya Bezdelev.
-- [Implementing blog theme bells and whistles in Hugo: pagination, pages, related posts, and tag lists](http://justindunham.net/blog-bells-and-whistles-in-hugo/) - By Justin Dunham.
-- [Developing a Static Site Generator Workflow](http://www.sitepoint.com/developing-a-static-site-generator-workflow/) - By Thomas Peham, Sitepoint.
-- [Working with Hugo's Internal Partial Templates: twitter-cards](http://brendan-quinn.xyz/post/working-with-hugos-internal-partial-templates-twitter-cards/) - By Brendan Quinn.
+- [Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/) - By Mathias Biilmann, Smashing Magazine.
+- [The World's Greatest (Free) Static Site Builders/Generators](https://slideshow-s9.github.io/demos/staticgen.html#1) - By Vienna.html.
+- [Deploy your blog to GitHubpages automatically using Hugo and Travis](https://rcoedo.com/post/hugo-static-site-generator/) - By Roman Coedo.
+- [How to host Hugo static website generator on AWS Lambda](https://bezdelev.com/post/hugo-aws-lambda-static-website/) - By Ilya Bezdelev.
+- [Implementing blog theme bells and whistles in Hugo: pagination, pages, related posts, and tag lists](https://justindunham.net/blog-bells-and-whistles-in-hugo/) - By Justin Dunham.
+- [Developing a Static Site Generator Workflow](https://www.sitepoint.com/developing-a-static-site-generator-workflow/) - By Thomas Peham, Sitepoint.
+- [Working with Hugo's Internal Partial Templates: twitter-cards](https://brendan-quinn.xyz/post/working-with-hugos-internal-partial-templates-twitter-cards/) - By Brendan Quinn.
 - [Minify Hugo Generated HTML · Ratson](https://ratson.name/blog/minify-hugo-generated-html/)
 - [Tips and tricks for building a theme in Hugo](https://medium.com/@jeffmcmorris/tips-and-tricks-for-building-a-theme-in-hugo-4806bdd747d7) - By Jeff McMorris.
 - [Switching to Aerobatic Static Site Hosting](https://serverlesscode.com/post/aerobatic-static-site-hosting-conversion/) - By Ryan Brown, Serverless Code.
@@ -150,9 +150,9 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to use Data Files in Hugo: an example](https://novelist.xyz/tech/hugo-data-files/) - By Peter Y. Chuang.
 - [Considerations when converting from WordPress.com to Hugo](https://eklausmeier.wordpress.com/2016/06/13/considerations-when-converting-from-wordpress-com-to-hugo/) - By Elmar Klausmeier.
 - [Limitations of Hugo's Date Format Templating](https://www.madboa.com/blog/2016/08/24/hugo-dateformat/) - By Paul Heinlein.
-- [Better TeX math typesetting in Hugo](http://latkin.org/blog/2016/08/07/better-tex-math-typesetting-in-hugo/) - By Lincoln.
+- [Better TeX math typesetting in Hugo](https://latkin.org/blog/2016/08/07/better-tex-math-typesetting-in-hugo/) - By Lincoln.
 - [Moving to a static site](https://davidyat.es/2016/08/19/moving-to-a-static-site/) - By David Yates.
-- [Convert an Existing Site into Hugo](http://whipperstacker.com/2016/09/22/convert-an-existing-site-into-hugo/) - By Katrina Owen.
+- [Convert an Existing Site into Hugo](https://whipperstacker.com/2016/09/22/convert-an-existing-site-into-hugo/) - By Katrina Owen.
 - [AWS Lambda Static Site Generator Plugins - Alestic.com](https://alestic.com/2016/10/aws-static-site-generator-plugins/) - By Eric Hammond.
 - [Hosting Hugo on GitLab](https://bryanklein.com/blog/hugo-site-on-gitlab/) - By Bryan Klein.
 - [HugoPhotoSwipe](https://gertjanvandenburg.com/blog/hugophotoswipe/) - By Gertjan van den Burg.
@@ -173,32 +173,32 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Go offline! Service Worker and Hugo](https://gohugohq.com/howto/go-offline-with-service-worker/) - By gohugohq.
 - [Autolinking shortcode through articles](https://gohugohq.com/partials/autolinking-shortcode-for-articles/) - By GoHugoHQ.
 - [Twitter cards partials for Hugo](https://gohugohq.com/partials/twitter-cards-partials-for-hugo/) - By GoHugoHQ.
-- [Enabling offline usage of a Hugo site (PWA)](http://rac.su/post/hugo/pwa/) - By Michel Racic.
+- [Enabling offline usage of a Hugo site (PWA)](https://rac.su/post/hugo/pwa/) - By Michel Racic.
 - [Go static: 5 reasons to try JAMstack on your next project.](https://builtvisible.com/go-static-try-jamstack/) - By Tom Bennet, Builtvisible.
 - [Dealing with version conflicts between Hugo and Netlify](https://www.adamwills.io/blog/hugo-version-issues-netlify/) - By Adam Wills.
 - [Hugo.Scratch explained](https://regisphilibert.com/blog/2017/04/hugo-scratch-explained-variable/) - By Régis Philibert.
 - [Hugo Easy Gallery](https://www.liwen.id.au/heg/) - By Li-Wen Yip.
 - [Getting Hugo running on Netlify](https://medium.com/@richlitt/getting-hugo-running-on-netlify-947eb00a2cbd) - By Richard Littauer.
 - [Hugulp, a Hugo + Gulp toolchain](https://medium.com/@juanbrodriguez/hugulp-a-hugo-gulp-toolchain-94f72ccc3577) - By Juan B. Rodriguez.
-- [Replacing Disqus with GitHubComments](http://donw.io/post/github-comments/) - By Don Williamson.
+- [Replacing Disqus with GitHubComments](https://donw.io/post/github-comments/) - By Don Williamson.
 - [Converting WordPress Export File to Hugo](https://eklausmeier.wordpress.com/2017/04/24/converting-wordpress-export-file-to-hugo/) - By Elmar Klausmeier.
-- [Migrate from Octopress to Hugo](http://pisarenko.net/blog/2017/04/28/hugo-static-site-generator/) - By Sergey Pisarenko.
+- [Migrate from Octopress to Hugo](https://pisarenko.net/blog/2017/04/28/hugo-static-site-generator/) - By Sergey Pisarenko.
 - [Creating a JSON Feed for Hugo](https://www.raymondcamden.com/2017/05/18/creating-a-json-feed-for-hugo/) - By Raymond Camden.
 - [Delaying Disqus comments to save (a ton of) requests](https://blog.kulman.sk/delaying-disqus-comments-to-save-requests/) - By Igor Kulman.
 - [HBuild, Test, And Deploy Statically Generated Websites With Hugo](https://circleci.com/blog/build-test-deploy-hugo-sites/) - By Ricardo Feliciano, CircleCI.
 - [Migrating from Jekyll+GitHubPages to Hugo+Netlify](https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/) - By Sara Soueidan.
 - [Deploying Hugo on Bluemix](https://dev.to/greyhoundforty/deploying-hugo-on-bluemix) - By Ryan Tiffany, dev.to.
-- [Building a JAMstack site with Hugo and Azure Functions](http://conductofcode.io/post/building-a-jamstack-site-with-hugo-and-azure-functions/) - By Henrik Lau Eriksson.
+- [Building a JAMstack site with Hugo and Azure Functions](https://conductofcode.io/post/building-a-jamstack-site-with-hugo-and-azure-functions/) - By Henrik Lau Eriksson.
 - [Embed your typeform on Hugo sites](https://www.typeform.com/help/embed-typeform-hugo-sites/) - By Typeform.
-- [Automating Static Website Deployment, Part 1](http://computersfearme.com/post/automate-website-updates-part1/) - By AlphaGeek.
-- [A Gentle Introduction to Creating a Minimal Hugo Site](http://arunrocks.com/minimal-hugo-site-tutorial/) - By Arun Ravindran.
-- [Generating Comments on Static Sites with Staticman](http://tosbourn.com/generating-comments-on-static-sites-with-staticman/) - By tosbourn.
-- [Implementing a Series in Hugo](http://www.joesacher.com/blog/2017/08/03/implementing-series-in-hugo/) - By Joe Sacher.
+- [Automating Static Website Deployment, Part 1](https://computersfearme.com/post/automate-website-updates-part1/) - By AlphaGeek.
+- [A Gentle Introduction to Creating a Minimal Hugo Site](https://arunrocks.com/minimal-hugo-site-tutorial/) - By Arun Ravindran.
+- [Generating Comments on Static Sites with Staticman](https://tosbourn.com/generating-comments-on-static-sites-with-staticman/) - By tosbourn.
+- [Implementing a Series in Hugo](https://www.joesacher.com/blog/2017/08/03/implementing-series-in-hugo/) - By Joe Sacher.
 - [Hugo Hosting with KeyCDN](https://www.keycdn.com/support/hugo-hosting/) - By KeyCDN.
-- [Hugo Templates for WordPress Designers](http://blog.teamtreehouse.com/hugo-templates-wordpress-designers) - By Leon Barnard, Treehouse Blog.
+- [Hugo Templates for WordPress Designers](https://blog.teamtreehouse.com/hugo-templates-wordpress-designers) - By Leon Barnard, Treehouse Blog.
 - [Awesome Hugo Boilerplates](https://habd.as/awesome-hugo-boilerplates/) - By Josh Habdas.
 - [Hugo and Madoko in a Custom Docker Image for GitLab CI/CD](https://bryanklein.com/blog/hugo-and-madoko-in-a-gitlab-custom-docker-image/) - By Brian Klein.
-- [Notes about migrating to Hugo](http://arslan.io/2017/11/30/notes-about-migrating-to-hugo/) - By Fatih Arslan.
+- [Notes about migrating to Hugo](https://arslan.io/2017/11/30/notes-about-migrating-to-hugo/) - By Fatih Arslan.
 - [Hugo Translator](https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/) - By Régis Philibert.
 - [Hugo + Staticman: Nested Replies and E-mail Notifications](https://networkhobo.com/2017/12/30/hugo-staticman-nested-replies-and-e-mail-notifications/) - By Dan C Williams.
 - [Hugo Web Development Workflow on Windows](https://www.ashwinnarayan.com/post/hugo-windows-workflow/) - By Ashwin Narayan.
@@ -212,7 +212,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Using Python, Webtask.io, Stripe, and Hugo for charity Fundraising pages](https://www.bryanklein.com/blog/python-webtask-stripe-and-hugo-for-charity-fundraising-pages/) - By Bryan Klein.
 - [Better Relationships in Hugo](https://regisphilibert.com/blog/2018/04/hugo-optmized-relashionships-with-related-content/) - By Régis Philibert.
 - [Hugo Snippets and Code Examples](https://it.knightnet.org.uk/kb/hugo/hugo-snippets/) - By Julian Knight.
-- [Subscription form for Hugo with FlowXO and Mailgun](http://code.krister.ee/subscription-form-for-hugo-with-flowxo-and-mailgun/) - By Krister Viirsaar.
+- [Subscription form for Hugo with FlowXO and Mailgun](https://code.krister.ee/subscription-form-for-hugo-with-flowxo-and-mailgun/) - By Krister Viirsaar.
 - [Build a JSON API With Hugo's Custom Output Formats](https://forestry.io/blog/build-a-json-api-with-hugo/) - By Régis Philibert, Forestry.
 - [Hugo, Python and Sheets, Oh My!](https://www.bryanklein.com/blog/hugo-python-gsheets-oh-my/) - By Bryan Klein.
 - [How to move from Medium to static hosting with Jekyll or Hugo](https://clipperhouse.com/how-to-move-from-medium-to-static-hosting-with-jekyll-or-hugo/) - By Matt Sherman.
@@ -266,5 +266,5 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
