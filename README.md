@@ -19,6 +19,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Starters](#starters)
 - [Theme Components](#theme-components)
 - [Projects using Hugo](#projects-using-hugo)
+- [Books](#books)
 - [Articles](#articles)
 - [Gists](#gists)
 
@@ -116,6 +117,11 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [aether](https://getaether.net/) [(case stufy)](https://gohugo.io/showcase/aether/)
 - [statsandr.com](https://www.statsandr.com/) [(repo)](https://github.com/AntoineSoetewey/statsandr)
 - [Bootstrap](https://getbootstrap.com/) [(repo)](https://github.com/twbs/bootstrap)
+
+## Books
+
+- [Hugo in Action - Static sites and dynamic Jamstack apps](https://manning.com/books/hugo-in-action) - By Atishay Jain, ISBN: 9781617297007
+- [Build Websites with Hugo. Fast Web Development with Markdown](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/) - By Brian P. Hogan, ISBN: 9781680507263 
 
 ## Articles
 
