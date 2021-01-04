@@ -101,7 +101,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Boomtown Fair](https://www.boomtownfair.co.uk/)
 - [labs.usa.gov](https://labs.usa.gov/)
 - [Forest Giant](https://www.forestgiant.com/)
-- [eSolia](https://esolia.com/)
 - [The Webmaster](https://www.thewebmaster.com)
 - [eSolia](https://esolia.com/) [(repo)](https://github.com/RickCogley/eSolia_2018)
 - [Rick Cogley Live](https://live.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-live)
