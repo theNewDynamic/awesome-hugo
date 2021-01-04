@@ -119,8 +119,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Books
 
-- [Hugo in Action - Static sites and dynamic Jamstack apps](https://manning.com/books/hugo-in-action) - By Atishay Jain, ISBN: 9781617297007
-- [Build Websites with Hugo. Fast Web Development with Markdown](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/) - By Brian P. Hogan, ISBN: 9781680507263 
+- [Hugo in Action - Static sites and dynamic Jamstack apps](https://manning.com/books/hugo-in-action) - By Atishay Jain, ISBN: 9781617297007.
+- [Build Websites with Hugo. Fast Web Development with Markdown](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/) - By Brian P. Hogan, ISBN: 9781680507263. 
 
 ## Articles
 
@@ -268,8 +268,3 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 ---
 **Check out my website [The New Dynamic](https://www.thenewdynamic.org/) or say hello on [Twitter](https://twitter.com/budparr).**
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
