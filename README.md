@@ -252,6 +252,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Create Your Free Developer Blog Using Hugo And Firebase](https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/) - By Zara Cooper.
 - [Hugo modules for "dummies"](https://craftsmandigital.net/blog/hugo-modules/) - By Jon Arne Viksås.
 - [Add search functionality to your blog listing page](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/) - By Zachary Betz.
+- [Hugo Mini Course (en/ru)](https://hugo-mini-course.netlify.app/) - By Jason Rametta & Valeria Shpiner.
 
 
 ## Gists
