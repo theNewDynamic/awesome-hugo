@@ -65,7 +65,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 - [GitHub Action to build Hugo site](https://github.com/lowply/build-hugo)
 - [hugo-bin: Binary wrapper for Hugo](https://github.com/fenneclab/hugo-bin)
-
+- [Hugo Landing Page](https://github.com/ttntm/hugo-landing-page) ([demo](https://awesome.ttntm.me))
+- [Hugo + Tailwind boilerplate](https://github.com/ttntm/hugo-tailwind-boilerplate)
 
 ## Theme Components
 
@@ -253,7 +254,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo modules for "dummies"](https://craftsmandigital.net/blog/hugo-modules/) - By Jon Arne Viksås.
 - [Add search functionality to your blog listing page](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/) - By Zachary Betz.
 - [Hugo Mini Course (en/ru)](https://hugo-mini-course.netlify.app/) - By Jason Rametta & Valeria Shpiner.
-
+- ["Static" Comments with Gulp, Hugo & Netlify](https://ttntm.me/blog/static-blog-comments-hugo) - By ttntm.
+- [Building a Store Locator Based on Leaflet](https://ttntm.me/blog/store-locator-leaflet-hugo) - By ttntm.
 
 ## Gists
 
