@@ -261,6 +261,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - ["Static" Comments with Gulp, Hugo & Netlify](https://ttntm.me/blog/static-blog-comments-hugo) - By ttntm.
 - [Building a Store Locator Based on Leaflet](https://ttntm.me/blog/store-locator-leaflet-hugo) - By ttntm.
 - [Hugo Modules: everything you need to know!](https://www.thenewdynamic.com/article/hugo-modules-everything-from-imports-to-create/) - By Régis Philibert.
+- [Developing a Last.fm shortcode for Hugo](https://ericgoebelbecker.com/post/hugo_lastfm_shortcode/) - By Eric Goebelbecker.
+
 
 ## Gists
 
