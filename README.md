@@ -161,7 +161,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Limitations of Hugo's Date Format Templating](https://www.madboa.com/blog/2016/08/24/hugo-dateformat/) - By Paul Heinlein.
 - [Better TeX math typesetting in Hugo](https://latkin.org/blog/2016/08/07/better-tex-math-typesetting-in-hugo/) - By Lincoln.
 - [Moving to a static site](https://davidyat.es/2016/08/19/moving-to-a-static-site/) - By David Yates.
-- [Convert an Existing Site into Hugo](https://whipperstacker.com/2016/09/22/convert-an-existing-site-into-hugo/) - By Katrina Owen.
 - [AWS Lambda Static Site Generator Plugins - Alestic.com](https://alestic.com/2016/10/aws-static-site-generator-plugins/) - By Eric Hammond.
 - [Hosting Hugo on GitLab](https://bryanklein.com/blog/hugo-site-on-gitlab/) - By Bryan Klein.
 - [HugoPhotoSwipe](https://gertjanvandenburg.com/blog/hugophotoswipe/) - By Gertjan van den Burg.
@@ -189,7 +188,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Easy Gallery](https://www.liwen.id.au/heg/) - By Li-Wen Yip.
 - [Getting Hugo running on Netlify](https://medium.com/@richlitt/getting-hugo-running-on-netlify-947eb00a2cbd) - By Richard Littauer.
 - [Hugulp, a Hugo + Gulp toolchain](https://medium.com/@juanbrodriguez/hugulp-a-hugo-gulp-toolchain-94f72ccc3577) - By Juan B. Rodriguez.
-- [Replacing Disqus with GitHubComments](https://donw.io/post/github-comments/) - By Don Williamson.
+- [Replacing Disqus with GitHubComments](http://donw.io/post/github-comments/) - By Don Williamson.
 - [Converting WordPress Export File to Hugo](https://eklausmeier.wordpress.com/2017/04/24/converting-wordpress-export-file-to-hugo/) - By Elmar Klausmeier.
 - [Migrate from Octopress to Hugo](https://pisarenko.net/blog/2017/04/28/hugo-static-site-generator/) - By Sergey Pisarenko.
 - [Creating a JSON Feed for Hugo](https://www.raymondcamden.com/2017/05/18/creating-a-json-feed-for-hugo/) - By Raymond Camden.
