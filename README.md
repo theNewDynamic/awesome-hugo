@@ -75,7 +75,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ## Theme Components
 
 - [hugo-chart](https://github.com/Shen-Yu/hugo-chart) - A Hugo theme component to display beautiful Charts.
-- [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses.
+- [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email addresses.
 - [hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices.
 - [hugo-loremipsum](https://github.com/martignoni/hugo-loremipsum) - A Hugo theme component to generate Lorem ipsum.
 - [hugo-social-metadata](https://github.com/msfjarvis/hugo-social-metadata) - A Hugo theme component to generate social metadata.
@@ -144,7 +144,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Tutorial: Build and Host a Fast E-commerce site](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce)
 - [Static sites go all Hollywood](https://speakerdeck.com/philhawksworth/static-sites-go-all-hollywood/) - By Phil Hawksworth.
 - [Hands on Experience with Hugo as a Static Site Generator](https://usersnap.com/blog/hands-on-experience-with-hugo-static-site-generator/) - By Thomas Peham, Usersnap.
-- [Hugo Continuous Integration with Wercker and Bitbucket](https://www.aerobatic.com/blog/hugo-continuous-integration-with-wercker-aerobatic-and-bitbucket.html) - By Aerobatic.
 - [How To Install and Use Hugo, a Static Site Generator, on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04/) - By Justin Ellingwood.
 - [Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/) - By Mathias Biilmann, Smashing Magazine.
 - [The World's Greatest (Free) Static Site Builders/Generators](https://slideshow-s9.github.io/demos/staticgen.html#1) - By Vienna.html.
@@ -209,7 +208,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Awesome Hugo Boilerplates](https://habd.as/awesome-hugo-boilerplates/) - By Josh Habdas.
 - [Hugo and Madoko in a Custom Docker Image for GitLab CI/CD](https://bryanklein.com/blog/hugo-and-madoko-in-a-gitlab-custom-docker-image/) - By Brian Klein.
 - [Notes about migrating to Hugo](https://arslan.io/2017/11/30/notes-about-migrating-to-hugo/) - By Fatih Arslan.
-- [Hugo Translator](https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/) - By Régis Philibert.
+- [Hugo Translator](https://regisphilibert.com/blog/2017/04/hugo-cheat-sheet-go-template-translator/) - By Régis Philibert.
 - [Hugo + Staticman: Nested Replies and E-mail Notifications](https://networkhobo.com/2017/12/30/hugo-staticman-nested-replies-and-e-mail-notifications/) - By Dan C Williams.
 - [Hugo Web Development Workflow on Windows](https://www.ashwinnarayan.com/post/hugo-windows-workflow/) - By Ashwin Narayan.
 - [How to build custom Hugo pagination](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/) - By Glenn McComb.
