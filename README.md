@@ -16,16 +16,19 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Contents
 
-- [Resources](#resources)
-  - [Official](#official)
-  - [Non-Official](#non-official)
-- [Tools](#tools)
-- [Starters](#starters)
-- [Theme Components](#theme-components)
-- [Projects using Hugo](#projects-using-hugo)
-- [Books](#books)
-- [Articles](#articles)
-- [Gists](#gists)
+- [Awesome Hugo  ![Awesome](https://awesome.re) <img src="hugo-logo-wide.svg" align="right" width="250">](#awesome-hugo---)
+  - [Contents](#contents)
+  - [Resources](#resources)
+    - [Official](#official)
+    - [Non-Official](#non-official)
+  - [Tools](#tools)
+  - [Starters](#starters)
+  - [Theme Components](#theme-components)
+  - [Projects using Hugo](#projects-using-hugo)
+  - [Books](#books)
+  - [Articles](#articles)
+  - [Gists](#gists)
+  - [Contributing](#contributing)
 
 
 ## Resources
@@ -262,6 +265,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Modules: everything you need to know!](https://www.thenewdynamic.com/article/hugo-modules-everything-from-imports-to-create/) - By Régis Philibert.
 - [Developing a Last.fm shortcode for Hugo](https://ericgoebelbecker.com/post/hugo_lastfm_shortcode/) - By Eric Goebelbecker.
 - [Build a Search Bar for Your Hugo Blog With a JSON Index and Some Vanilla JS](https://zwbetz.com/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/) - By Zachary Betz.
+- [Redirects Hugo Module with Netlify](https://www.thenewdynamic.com/article/hugo-module-netlify-redirects/) - By Régis Philibert.
+
 
 ## Gists
 
