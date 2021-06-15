@@ -124,6 +124,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [aether](https://getaether.net/) [(case stufy)](https://gohugo.io/showcase/aether/)
 - [statsandr.com](https://www.statsandr.com/) [(repo)](https://github.com/AntoineSoetewey/statsandr)
 - [Bootstrap](https://getbootstrap.com/) [(repo)](https://github.com/twbs/bootstrap)
+- [Random Daily Art](https://randomdailyart.com/)
 
 ## Books
 
