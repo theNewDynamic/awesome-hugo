@@ -268,6 +268,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Developing a Last.fm shortcode for Hugo](https://ericgoebelbecker.com/post/hugo_lastfm_shortcode/) - By Eric Goebelbecker.
 - [Build a Search Bar for Your Hugo Blog With a JSON Index and Some Vanilla JS](https://zwbetz.com/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/) - By Zachary Betz.
 - [Redirects Hugo Module with Netlify](https://www.thenewdynamic.com/article/hugo-module-netlify-redirects/) - By Régis Philibert.
+- [Blazing fast static eCommerce site with Hugo, LiveMart & Stripe](https://livemart.xyz/contents/blazing-fast-static-ecommerce-site-with-hugo-livemart) - By LiveMart.
 
 
 ## Gists
