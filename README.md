@@ -74,6 +74,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [hugo-bin: Binary wrapper for Hugo](https://github.com/fenneclab/hugo-bin)
 - [Hugo Landing Page](https://github.com/ttntm/hugo-landing-page) ([demo](https://awesome.ttntm.me))
 - [Hugo + Tailwind boilerplate](https://github.com/ttntm/hugo-tailwind-boilerplate)
+- [Hugo + Tailwind 3 - SEO Optimized Starter](https://github.com/BenjaminPrice/hugo-tailwind3-starter)
 
 ## Theme Components
 
