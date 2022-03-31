@@ -270,7 +270,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Build a Search Bar for Your Hugo Blog With a JSON Index and Some Vanilla JS](https://zwbetz.com/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/) - By Zachary Betz.
 - [Redirects Hugo Module with Netlify](https://www.thenewdynamic.com/article/hugo-module-netlify-redirects/) - By Régis Philibert.
 - [Discreet Drafts in Hugo](https://zwbetz.com/discreet-drafts-in-hugo/) - By Zachary Betz.
-
+- [How to Use PurgeCSS With Hugo](https://zwbetz.com/how-to-use-purgecss-with-hugo/) - By Zachary Betz.
 
 ## Gists
 
