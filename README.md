@@ -49,6 +49,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [medium-2-md, Converts medium posts (html) into Jekyll/Hugo compatible markdown files](https://github.com/gautamdhameja/medium-2-md)
 - [Hugo Themer, Extension to help you building Hugo templates](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
 - [Prettier Plugin go-template, Fixes formatting for go template files.](https://www.npmjs.com/package/prettier-plugin-go-template)
+- [HUGE, A Hugo Framework](https://github.com/theNewDynamic/huge)
 
 ## Starters
 
@@ -65,6 +66,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Landing Page](https://github.com/ttntm/hugo-landing-page) ([demo](https://awesome.ttntm.me))
 - [Hugo + Tailwind boilerplate](https://github.com/ttntm/hugo-tailwind-boilerplate)
 - [Hugo + Tailwind 3 - SEO Optimized Starter](https://github.com/BenjaminPrice/hugo-tailwind3-starter)
+- [HUGE starter: PostCSS, Tailwind and React](https://github.com/theNewDynamic/huge-starter)
+- [HUGE basic starter: NPM free, SCSS and vanilla JS](https://github.com/theNewDynamic/huge-starter-tailwind-react)
 
 ## Theme Components
 
