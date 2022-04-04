@@ -1,10 +1,6 @@
-# Awesome Hugo  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <img src="hugo-logo-wide.svg" align="right" width="250">
-
-
-[awesome-hugo.dev](https://www.awesome-hugo.dev/) 
+# Awesome Hugo [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ea36c286-0f0d-4935-8313-095a071d0294/deploy-status)](https://app.netlify.com/sites/awesome-hugo/deploys)
-
 
 A curated list of awesome things related to Hugo, the world's fastest framework for building websites.
 
@@ -16,23 +12,18 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Contents
 
-- [Awesome Hugo  ![Awesome](https://awesome.re) <img src="hugo-logo-wide.svg" align="right" width="250">](#awesome-hugo---)
-  - [Contents](#contents)
-  - [Resources](#resources)
-    - [Official](#official)
-    - [Non-Official](#non-official)
-  - [Tools](#tools)
-  - [Starters](#starters)
-  - [Theme Components](#theme-components)
-  - [Projects using Hugo](#projects-using-hugo)
-  - [Books](#books)
-  - [Articles](#articles)
-  - [Gists](#gists)
-  - [Contributing](#contributing)
-
+- [Resources](#resources)
+  - [Official](#official)
+  - [Non-Official](#non-official)
+- [Tools](#tools)
+- [Starters](#starters)
+- [Theme Components](#theme-components)
+- [Projects using Hugo](#projects-using-hugo)
+- [Books](#books)
+- [Articles](#articles)
+- [Gists](#gists)
 
 ## Resources
-
 
 ### Official
 
@@ -48,7 +39,6 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ### Non-Official
 
 - [Hugo Best Practices](https://github.com/spech66/hugo-best-practices)
-
 
 ## Tools
 
@@ -131,7 +121,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ## Books
 
 - [Hugo in Action - Static sites and dynamic Jamstack apps](https://manning.com/books/hugo-in-action) - By Atishay Jain, ISBN: 9781617297007.
-- [Build Websites with Hugo. Fast Web Development with Markdown](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/) - By Brian P. Hogan, ISBN: 9781680507263. 
+- [Build Websites with Hugo. Fast Web Development with Markdown](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/) - By Brian P. Hogan, ISBN: 9781680507263.
 
 ## Articles
 
@@ -285,4 +275,5 @@ Gists are succinct code snippets. Please only include things that are useful to 
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](https://github.com/theNewDynamic/awesome-hugo/blob/master/CONTRIBUTING.md). Thank you!
 
 ---
+
 **Maintained by [Bud Parr](https://twitter.com/budparr) at [The New Dynamic](https://www.thenewdynamic.com/)/[TND.Dev](https://www.tnd.dev/).**
