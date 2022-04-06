@@ -12,16 +12,19 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Contents
 
-- [Resources](#resources)
-  - [Official](#official)
-  - [Non-Official](#non-official)
-- [Tools](#tools)
-- [Starters](#starters)
-- [Theme Components](#theme-components)
-- [Projects using Hugo](#projects-using-hugo)
-- [Books](#books)
-- [Articles](#articles)
-- [Gists](#gists)
+- [Awesome Hugo ![Awesome](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)](#awesome-hugo--)
+  - [Contents](#contents)
+  - [Resources](#resources)
+    - [Official](#official)
+    - [Non-Official](#non-official)
+  - [Tools](#tools)
+  - [Starters](#starters)
+  - [Theme Components](#theme-components)
+  - [Projects using Hugo](#projects-using-hugo)
+  - [Books](#books)
+  - [Articles](#articles)
+  - [Gists](#gists)
+  - [Contributing](#contributing)
 
 ## Resources
 
@@ -49,7 +52,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [medium-2-md, Converts medium posts (html) into Jekyll/Hugo compatible markdown files](https://github.com/gautamdhameja/medium-2-md)
 - [Hugo Themer, Extension to help you building Hugo templates](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
 - [Prettier Plugin go-template, Fixes formatting for go template files.](https://www.npmjs.com/package/prettier-plugin-go-template)
-- [HUGE, A Hugo Framework](https://github.com/theNewDynamic/huge)
+- [HUGE - A Hugo Framework](https://github.com/theNewDynamic/huge)
 
 ## Starters
 
