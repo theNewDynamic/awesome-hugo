@@ -282,4 +282,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 ---
 
-**Maintained by [Bud Parr](https://twitter.com/budparr) at [The New Dynamic](https://www.thenewdynamic.com/)/[TND.Dev](https://www.tnd.dev/).**
+**Maintained by [Bud Parr](https://twitter.com/budparr) at [The New Dynamic](https://www.thenewdynamic.com/).**
