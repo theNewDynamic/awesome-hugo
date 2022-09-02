@@ -1,6 +1,7 @@
-# Awesome Hugo [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)
+# Awesome Hugo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ea36c286-0f0d-4935-8313-095a071d0294/deploy-status)](https://app.netlify.com/sites/awesome-hugo/deploys)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)
 
 A curated list of awesome things related to Hugo, the world's fastest framework for building websites.
 
@@ -12,7 +13,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Contents
 
-- [Awesome Hugo ![Awesome](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)](#awesome-hugo--)
+- [Awesome Hugo](#awesome-hugo)
   - [Contents](#contents)
   - [Resources](#resources)
     - [Official](#official)
@@ -71,6 +72,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo + Tailwind 3 - SEO Optimized Starter](https://github.com/BenjaminPrice/hugo-tailwind3-starter)
 - [HUGE starter: PostCSS, Tailwind and React](https://github.com/theNewDynamic/huge-starter)
 - [HUGE basic starter: NPM free, SCSS and vanilla JS](https://github.com/theNewDynamic/huge-starter-tailwind-react)
+
+- [Hugo Theme Starter](https://github.com/misitebao/hugo-theme-starter) - Starter for developing hugo templates
 
 ## Theme Components
 
