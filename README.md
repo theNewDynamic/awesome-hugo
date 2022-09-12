@@ -12,7 +12,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Contents
 
-- [Awesome Hugo ![Awesome](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)](#awesome-hugo--)
+- [Awesome Hugo ![Awesome](https://awesome.re)[<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)](#awesome-hugo--)
   - [Contents](#contents)
   - [Resources](#resources)
     - [Official](#official)
