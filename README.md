@@ -1,6 +1,6 @@
-# Awesome Hugo [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)
+# Awesome Hugo [<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ea36c286-0f0d-4935-8313-095a071d0294/deploy-status)](https://app.netlify.com/sites/awesome-hugo/deploys)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  [![Netlify Status](https://api.netlify.com/api/v1/badges/ea36c286-0f0d-4935-8313-095a071d0294/deploy-status)](https://app.netlify.com/sites/awesome-hugo/deploys)
 
 A curated list of awesome things related to Hugo, the world's fastest framework for building websites.
 
@@ -12,7 +12,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Contents
 
-- [Awesome Hugo ![Awesome](https://awesome.re)[<img src="hugo-logo-wide.svg" align="right" width="250">](https://www.awesome-hugo.dev/)](#awesome-hugo--)
+- [Awesome Hugo <img src="hugo-logo-wide.svg" align="right" width="250">](#awesome-hugo-)
   - [Contents](#contents)
   - [Resources](#resources)
     - [Official](#official)
