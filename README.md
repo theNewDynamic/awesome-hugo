@@ -71,6 +71,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo + Tailwind 3 - SEO Optimized Starter](https://github.com/BenjaminPrice/hugo-tailwind3-starter)
 - [HUGE starter: PostCSS, Tailwind and React](https://github.com/theNewDynamic/huge-starter)
 - [HUGE basic starter: NPM free, SCSS and vanilla JS](https://github.com/theNewDynamic/huge-starter-tailwind-react)
+- [Hugo Theme Starter](https://github.com/misitebao/hugo-theme-starter)
 
 ## Theme Components
 
@@ -269,7 +270,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Redirects Hugo Module with Netlify](https://www.thenewdynamic.com/article/hugo-module-netlify-redirects/) - By Régis Philibert.
 - [Discreet Drafts in Hugo](https://zwbetz.com/discreet-drafts-in-hugo/) - By Zachary Betz.
 - [How to Use PurgeCSS With Hugo](https://zwbetz.com/how-to-use-purgecss-with-hugo/) - By Zachary Betz.
-- [Comments via Matrix: Cactus Chat and Hugo](https://hyteck.de/post/cactus-chat/) - By Julian-Samuel Gebühr
+- [Comments via Matrix: Cactus Chat and Hugo](https://hyteck.de/post/cactus-chat/) - By Julian-Samuel Gebühr.
 - [A lightweight, fuzzy, client-side search template for Hugo](https://github.com/zwbetz-gh/hugo-client-side-search-template) - By Zachary Betz.
 
 ## Gists
