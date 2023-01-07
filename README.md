@@ -82,7 +82,8 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [hugo-social-metadata](https://github.com/msfjarvis/hugo-social-metadata) - A Hugo theme component to generate social metadata.
 - [hudo-redirect](https://github.com/gcc42/hugo-redirect) - A Hugo theme component to setup URL redirections/aliasing on Hugo sites.
 - [hugo-cite](https://github.com/loup-brun/hugo-cite) - A Hugo theme component which uses CSL-JSON to create (academic) bibliography sections for pages and posts.
-- [hugo-responsive-images](https://github.com/future-wd/hugo-responsive-images) - A theme component for generating responsive images with srcset tags. Supports lazysizes for automatic sizes property and lazyloading polyfill.
+- [hugo-responsive-images](https://github.com/future-wd/hugo-responsive-images) - A Hugo theme component for generating responsive images with srcset tags. Supports lazysizes for automatic sizes property and lazyloading polyfill.
+- [hugo-github-calendar](https://github.com/totoroot/hugo-github-calendar) - A Hugo theme component for creating a graph of your GitHub contributions.
 
 ## Projects using Hugo
 
