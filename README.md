@@ -126,6 +126,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Random Daily Art](https://randomdailyart.com/)
 - [Sociocs](https://www.sociocs.com/)
 - [Shoogle](https://shoogle.net/)
+- [Overmind Studios](https://www.overmind-studios.de/)
 
 ## Books
 
