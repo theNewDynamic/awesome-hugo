@@ -10,6 +10,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 — Paraphrased from ["What is Hugo"](https://gohugo.io/about/what-is-hugo/).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Hugo static site workflow orchestration, automated content management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Awesome Hugo <img src="hugo-logo-wide.svg" align="right" width="250">](#awesome-hugo-)
