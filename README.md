@@ -52,6 +52,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [medium-2-md, Converts medium posts (html) into Jekyll/Hugo compatible markdown files](https://github.com/gautamdhameja/medium-2-md)
 - [Hugo Themer, Extension to help you building Hugo templates](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
 - [Prettier Plugin go-template, Fixes formatting for go template files.](https://www.npmjs.com/package/prettier-plugin-go-template)
+- [gomarklint - Markdown linter with built-in HTTP link validation. Single binary, no Node.js required.](https://github.com/shinagawa-web/gomarklint)
 - [HUGE - A Hugo Framework](https://github.com/theNewDynamic/huge)
 
 ## Starters
