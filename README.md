@@ -85,6 +85,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [hugo-responsive-images](https://github.com/future-wd/hugo-responsive-images) - A Hugo theme component for generating responsive images with srcset tags. Supports lazysizes for automatic sizes property and lazyloading polyfill.
 - [hugo-inline-svg](https://github.com/future-wd/hugo-inline-svg) - A theme component for inlining SVG. Comes with CSS for displaying as blog, or inline with text.
 - [hugo-github-calendar](https://github.com/totoroot/hugo-github-calendar) - A Hugo theme component for creating a graph of your GitHub contributions.
+- [Wavecast](https://github.com/adurrr/wavecast) - A persistent podcast/radio audio player Web Component for Hugo. Works as a module and as a theme. Supports local files, AzuraCast radio streams, and iVoox episodes.
 
 ## Projects using Hugo
 
