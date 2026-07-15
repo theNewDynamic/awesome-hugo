@@ -53,6 +53,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Themer, Extension to help you building Hugo templates](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
 - [Prettier Plugin go-template, Fixes formatting for go template files.](https://www.npmjs.com/package/prettier-plugin-go-template)
 - [HUGE - A Hugo Framework](https://github.com/theNewDynamic/huge)
+- [HugoKit, a free native macOS app for Hugo: run the server, preview, check and publish without the terminal](https://hugokit.com)
 
 ## Starters
 
