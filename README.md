@@ -128,6 +128,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Shoogle](https://shoogle.net/)
 - [Flowbite](https://flowbite.com)
 - [Oka bRionZ](https://www.okabrionz.com)
+- [Time Friend](https://time-friend.com)
 
 ## Books
 
