@@ -265,6 +265,9 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to Use PurgeCSS With Hugo](https://zwbetz.com/how-to-use-purgecss-with-hugo/) - By Zachary Betz.
 - [Comments via Matrix: Cactus Chat and Hugo](https://hyteck.de/post/cactus-chat/) - By Julian-Samuel Gebühr.
 - [A lightweight, fuzzy, client-side search template for Hugo](https://github.com/zwbetz-gh/hugo-client-side-search-template) - By Zachary Betz.
+- [Going Multilingual: i18n for My Blog](https://time-friend.com/en/archive/blog-architecture-i18n/) - By 0x1428571429.
+- [hreflang Language Code Mistakes: Why Bilingual Blogs Rank Unstably in Some Regions](https://time-friend.com/en/archive/blog-multilingual-seo-hreflang/) - By 0x1428571429.
+- [Making My Blog Work Offline with PWA](https://time-friend.com/en/archive/blog-architecture-service-worker/) - By 0x1428571429.
 
 ## Gists
 
