@@ -268,6 +268,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Going Multilingual: i18n for My Blog](https://time-friend.com/en/archive/blog-architecture-i18n/) - By 0x1428571429.
 - [hreflang Language Code Mistakes: Why Bilingual Blogs Rank Unstably in Some Regions](https://time-friend.com/en/archive/blog-multilingual-seo-hreflang/) - By 0x1428571429.
 - [Making My Blog Work Offline with PWA](https://time-friend.com/en/archive/blog-architecture-service-worker/) - By 0x1428571429.
+- [AI-Crawler-Friendly Blog Content: Allow Policy, Readability, and the llms.txt Index](https://time-friend.com/en/archive/blog-content-ai-friendly/) - By 0x1428571429.
 
 ## Gists
 
