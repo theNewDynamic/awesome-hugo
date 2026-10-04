@@ -42,6 +42,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ### Non-Official
 
 - [Hugo Best Practices](https://github.com/spech66/hugo-best-practices)
+- [Hugo 中文文档](https://hugozh.cn/) - Community-maintained Simplified Chinese translation of the official documentation, kept 1:1 with upstream and updated continuously.
 
 ## Tools
 
