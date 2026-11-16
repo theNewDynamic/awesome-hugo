@@ -264,6 +264,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How to Use PurgeCSS With Hugo](https://zwbetz.com/how-to-use-purgecss-with-hugo/) - By Zachary Betz.
 - [Comments via Matrix: Cactus Chat and Hugo](https://hyteck.de/post/cactus-chat/) - By Julian-Samuel Gebühr.
 - [A lightweight, fuzzy, client-side search template for Hugo](https://github.com/zwbetz-gh/hugo-client-side-search-template) - By Zachary Betz.
+- [Adding an llms.txt File to a Hugo Website](https://blog.dankying.com/en/posts/20250522-adding-an-llmstxt-file-to-your-hugo-website/) - By Dank Zheng.
 
 ## Gists
 
