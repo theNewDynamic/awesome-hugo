@@ -53,6 +53,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [Hugo Themer, Extension to help you building Hugo templates](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
 - [Prettier Plugin go-template, Fixes formatting for go template files.](https://www.npmjs.com/package/prettier-plugin-go-template)
 - [HUGE - A Hugo Framework](https://github.com/theNewDynamic/huge)
+- [hugo-upgrade-check](https://github.com/AmperisProducts/hugo-upgrade-check) - GitHub Action and script that builds your site with its current and a newer Hugo release and reports what the upgrade changes: published files, SEO tags, HTML, images, sitemap and build warnings.
 
 ## Starters
 
@@ -85,6 +86,9 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [hugo-responsive-images](https://github.com/future-wd/hugo-responsive-images) - A Hugo theme component for generating responsive images with srcset tags. Supports lazysizes for automatic sizes property and lazyloading polyfill.
 - [hugo-inline-svg](https://github.com/future-wd/hugo-inline-svg) - A theme component for inlining SVG. Comes with CSS for displaying as blog, or inline with text.
 - [hugo-github-calendar](https://github.com/totoroot/hugo-github-calendar) - A Hugo theme component for creating a graph of your GitHub contributions.
+- [hugo-llms-txt](https://github.com/AmperisProducts/hugo-llms-txt) - A Hugo module that generates llms.txt and llms-full.txt for every language of a site.
+- [hugo-structured-data](https://github.com/AmperisProducts/hugo-structured-data) - A Hugo module that renders schema.org JSON-LD (Organization, WebSite, WebPage, BreadcrumbList, Article, Product and FAQPage) for multilingual sites.
+- [hugo-hreflang](https://github.com/AmperisProducts/hugo-hreflang) - A Hugo module for hreflang alternates and an accessible language switcher, with a stable order and fallbacks for missing translations.
 
 ## Projects using Hugo
 
