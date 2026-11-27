@@ -72,6 +72,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [HUGE starter: PostCSS, Tailwind and React](https://github.com/theNewDynamic/huge-starter)
 - [HUGE basic starter: NPM free, SCSS and vanilla JS](https://github.com/theNewDynamic/huge-starter-tailwind-react)
 - [Hugo Theme Starter](https://github.com/misitebao/hugo-theme-starter)
+- [Quire](https://github.com/themesdev/hugo-theme-quire) - Tailwind CSS v4 blog theme, MIT. ([demo](https://quire.themes.dev/))
 
 ## Theme Components
 
